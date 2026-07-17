@@ -1,0 +1,9 @@
+import type { Metadata } from "next";
+import Link from "next/link";
+import { SiteFooter, SiteHeader } from "@/components/site-chrome";
+import { eboxes } from "@/data/eboxes";
+import { canonical } from "@/lib/site";
+
+export const metadata: Metadata = { title: "About", description: "Purpose, scope, independence, and publication posture of the Trump’s Kampf evidence archive.", alternates: { canonical: canonical("/about/") } };
+
+export default function AboutPage() { return <main><SiteHeader active="about" /><section className="page-intro"><span className="kicker">About this archive</span><h1>An alarm should make us more precise.</h1><p>A working archive of democratic risk, authoritarian rhetoric, institutional change, and remaining guardrails.</p></section><section className="about-grid"><article><span>01</span><h2>The name</h2><p>The title signals historical inquiry, not identity: today’s United States is not Nazi Germany’s one-party, genocidal state.</p></article><article><span>02</span><h2>The editorial position</h2><p>The project finds serious democratic risk while keeping that conclusion separate from the factual record.</p></article><article><span>03</span><h2>The present scope</h2><p>{eboxes.length} source-linked records cover rhetoric, elections, personnel, race, enforcement, detention, religion, foreign power, and legal guardrails.</p></article><article><span>04</span><h2>What comes next</h2><p>Next: deeper chronology, institutional-pressure cases, legislation, exports, and expert records.</p></article></section><section className="independence-note"><h2>Independent and correctable.</h2><p>No affiliation with any discussed person, party, administration, or institution; material errors receive visible revisions.</p><div><Link href="/#archive">Open the archive →</Link><Link href="/methodology/">Read the method →</Link></div></section><SiteFooter /></main>; }
