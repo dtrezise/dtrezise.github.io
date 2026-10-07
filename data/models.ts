@@ -74,12 +74,25 @@ export type EBox = {
   sources: EvidenceSource[];
   assessments: TestAssessment[];
   revisions: Revision[];
+  lastChecked?: string;
+  nextReviewDate?: string;
   privateCompanion?: {
     available: true;
     access: "Private editorial record";
   };
   featured?: boolean;
 };
+
+export function latestReviewDate(ebox: EBox) {
+  return ebox.lastChecked ?? ebox.revisions.at(-1)?.date ?? null;
+}
+
+export function reviewState(ebox: EBox, asOf = "2026-10-07") {
+  const latest = latestReviewDate(ebox);
+  if (!latest) return "Review date unavailable";
+  if (ebox.nextReviewDate && ebox.nextReviewDate < asOf) return "Review due";
+  return latest === asOf ? "Current review" : "Monitoring required";
+}
 
 export const scoreScale = [
   { points: 0, name: "Direct conflict", description: "The record directly conflicts with the criterion." },

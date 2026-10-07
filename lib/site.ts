@@ -1,6 +1,7 @@
 export const siteName = "Trump’s Kampf";
 export const siteSubtitle = "Democratic Deconstruction Archive";
 export const lastReviewed = "July 17, 2026";
+export const mostRecentUpdate = "October 7, 2026";
 
 export function siteUrl() {
   return (process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000").replace(/\/$/, "");

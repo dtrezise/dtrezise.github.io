@@ -5,7 +5,7 @@ import { PlaybookComparison } from "@/components/playbook-comparison";
 import { SiteFooter, SiteHeader } from "@/components/site-chrome";
 import { eboxes } from "@/data/eboxes";
 import { testDefinitions } from "@/data/tests";
-import { canonical, lastReviewed, socialImagePath } from "@/lib/site";
+import { canonical, lastReviewed, mostRecentUpdate, socialImagePath } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "Trump’s Kampf — Democratic Deconstruction Archive",
@@ -46,7 +46,8 @@ export default function Home() {
         <div><strong>{sourceCount}</strong><span>distinct source links</span></div>
         <div><strong>{testDefinitions.length}</strong><span>reusable tests</span></div>
         <div><strong>{primaryCount}</strong><span>primary-source records</span></div>
-        <div><strong>{lastReviewed}</strong><span>last evidence review</span></div>
+        <div><strong>{mostRecentUpdate}</strong><span>most recent record review</span></div>
+        <div><strong>{lastReviewed}</strong><span>archive-wide review baseline</span></div>
       </section>
       <section className="integrity-strip" aria-label="Editorial integrity boundaries">
         <div><span>FACT</span><p>What is established.</p></div>

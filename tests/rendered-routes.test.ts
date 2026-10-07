@@ -44,6 +44,7 @@ test("archive, navigation, metadata, and first-pass eBoxes server-render", async
   assert.match(html, /aria-label="Evidence filters"/);
   assert.match(html, /name="twitter:card" content="summary_large_image"/);
   assert.match(html, /property="og:image"/);
+  assert.match(html, /most recent record review/);
   assert.doesNotMatch(html, /codex-preview|Your site is taking shape|react-loading-skeleton/i);
   assertNoInternalEvidenceTerm(html);
 });
@@ -87,7 +88,7 @@ test("every test route resolves its complete rubric and applied records", async 
 });
 
 test("all top-level internal links resolve", async () => {
-  for (const path of ["/", "/tests/", "/methodology/", "/about/"]) {
+  for (const path of ["/", "/tests/", "/methodology/", "/editorial/", "/about/"]) {
     const response = await render(path);
     assert.equal(response.status, 200, path);
     assertNoInternalEvidenceTerm(await response.text());

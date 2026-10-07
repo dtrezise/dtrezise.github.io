@@ -1,5 +1,5 @@
 import Link from "next/link";
-import type { EBox } from "@/data/models";
+import { latestReviewDate, reviewState, type EBox } from "@/data/models";
 import { testById } from "@/data/tests";
 import { eboxPath, testPath } from "@/lib/site";
 import { ScoreBadge } from "./score-badge";
@@ -13,6 +13,7 @@ export function EBoxView({ ebox, compact = false, index }: { ebox: EBox; compact
         <div className="ebox__meta"><span>{ebox.category}</span><time>{ebox.dateLabel}</time></div>
         <h2>{compact ? <Link href={eboxPath(ebox.slug)} title={ebox.title}>{ebox.title}</Link> : ebox.title}</h2>
         <div className={`status-row ${compact ? "status-row--compact" : ""}`}><span>{compact ? "Status" : "Record status"}</span><strong title={compact ? ebox.status : undefined}>{ebox.status}</strong><em>{ebox.publicationState}</em></div>
+        {!compact ? <div className={`review-state review-state--${reviewState(ebox) === "Current review" ? "current" : "due"}`}><span>Evidence review</span><strong>{reviewState(ebox)}</strong><em>Last checked {latestReviewDate(ebox) ?? "unavailable"}{ebox.nextReviewDate ? ` · next review ${ebox.nextReviewDate}` : ""}</em></div> : null}
 
         <div className="record-summary">
           <section className="fact-block" aria-labelledby={`${ebox.id}-facts`}>
