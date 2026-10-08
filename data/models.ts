@@ -1,3 +1,5 @@
+import { mostRecentRecordReviewDate } from "./editorial";
+
 export type PublicationState = "Published" | "Under review" | "Corrected";
 
 export type EvidenceSource = {
@@ -87,7 +89,7 @@ export function latestReviewDate(ebox: EBox) {
   return ebox.lastChecked ?? ebox.revisions.at(-1)?.date ?? null;
 }
 
-export function reviewState(ebox: EBox, asOf = "2026-10-07") {
+export function reviewState(ebox: EBox, asOf = mostRecentRecordReviewDate) {
   const latest = latestReviewDate(ebox);
   if (!latest) return "Review date unavailable";
   if (ebox.nextReviewDate && ebox.nextReviewDate < asOf) return "Review due";

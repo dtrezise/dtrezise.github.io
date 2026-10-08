@@ -1708,6 +1708,31 @@ export const eboxes: EBox[] = [
     ],
     revisions: [{ revision: "1.0", date: "2026-07-17", note: "Initial publication preserves lawful impeachment authority and the fact that no judge was removed." }],
   },
+  {
+    id: "TK-REC-0041",
+    slug: "dnc-challenges-federal-funding-trump-ads",
+    title: "DNC challenges federal funding of Trump advertisements",
+    category: "Elections & democratic continuity",
+    context: "Democratic National Committee v. Trump, D.D.C. No. 1:26-cv-03506",
+    dateLabel: "October 7, 2026",
+    sortDate: "2026-10-07",
+    status: "Complaint filed; no ruling verified",
+    publicationState: "Published",
+    factualSummary: "On October 7, the DNC filed a federal complaint alleging that the administration diverted $20 million in Customs and Border Protection funds to advertisements promoting Trump ahead of the midterms. It seeks a declaration of unlawfulness and an injunction against further public funding. AP separately reported a second lawsuit by a coalition including Common Cause and Trump's pledge to use super PAC funding for future ads. Those filings and statements do not establish that a court has found the advertising unlawful or that federal payments have stopped.",
+    whyItMatters: "Publicly financed promotion can advantage incumbents and weaken the separation between public administration and electoral campaigning. This dispute tests that boundary and Congress's control of spending. The existence of adversarial litigation also demonstrates an available institutional check; a complaint alone cannot establish abuse or its effect on an election.",
+    limitingContext: "The White House calls the advertisements public service announcements, cites comparable communications by earlier administrations, and says Trump is not on the ballot and the ads contain no call to action. The DNC is an electoral opponent and its complaint presents contested allegations. Government policy communication can be lawful. Standing, statutory application, relief, and any subsequent appeal remain questions for the courts; no injunction or merits ruling was verified in this review. No historical-comparison score is assigned on this preliminary record.",
+    subjects: ["Democratic National Committee", "Donald Trump", "The White House", "Office of Management and Budget", "Department of Homeland Security", "U.S. Customs and Border Protection"],
+    tags: ["midterms", "public funds", "government advertising", "appropriations", "pending litigation"],
+    sources: [
+      { sourceType: "Court record", title: "Democratic National Committee v. Trump — complaint, Document 1 (October 7, 2026)", publisher: "U.S. District Court for the District of Columbia / copy hosted by Democracy Docket", url: "https://www.democracydocket.com/wp-content/uploads/2026/10/2026-10-07-Complaint.pdf", retrievalDate: "2026-10-08", limitingContext: "File-stamped complaint in No. 1:26-cv-03506; establishes the filing, allegations, and requested relief, not their truth or a judicial determination. Hosted by an advocacy-oriented legal-news publisher; not a complete current docket." },
+      { sourceType: "Official record", title: "Presidential Public Service Announcements Are Nothing New", publisher: "The White House", url: "https://www.whitehouse.gov/releases/2026/09/presidential-public-service-announcements-are-nothing-new/", retrievalDate: "2026-10-08", limitingContext: "September 25 administration defense of the advertisements; a primary statement of its rationale, not an independent legal finding or a response filed in the new lawsuit." },
+      { sourceType: "Reporting", title: "Two lawsuits challenge Trump's taxpayer-funded ads, alleging they violate propaganda law", publisher: "Associated Press via ABC News", url: "https://abcnews.com/Politics/wireStory/dnc-sues-trump-administration-alleging-taxpayer-funded-ads-137076674", retrievalDate: "2026-10-08", limitingContext: "October 7 reporting corroborates the filing and supplies the separate coalition suit and announced funding change. Reporting on a promise does not verify its implementation or reimbursement." },
+    ],
+    assessments: [],
+    revisions: [{ revision: "1.0", date: "2026-10-08", note: "Initial publication after review of the filed complaint, the White House defense, and AP reporting. Alleged illegality remains attributed; no ruling or completed funding change is asserted. Historical-comparison scoring withheld pending record-specific review." }],
+    lastChecked: "2026-10-08",
+    nextReviewDate: "2026-10-09",
+  },
 ];
 
 export const eboxBySlug = new Map(eboxes.map((ebox) => [ebox.slug, ebox]));
