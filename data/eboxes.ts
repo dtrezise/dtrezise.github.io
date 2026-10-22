@@ -1969,13 +1969,13 @@ export const eboxes: EBox[] = [
     title: "DOJ seeks emergency order to set aside flagged California mail ballots",
     category: "Elections & democratic continuity",
     context: "October 13 federal demand; United States v. California, C.D. Cal. No. 2:26-cv-12025",
-    dateLabel: "October 13–20, 2026",
-    sortDate: "2026-10-20",
-    status: "October 20 state and county opposition briefs filed; TRO request unresolved in reviewed sources",
+    dateLabel: "October 13–21, 2026",
+    sortDate: "2026-10-21",
+    status: "California moved to dismiss October 21; dismissal and TRO requests unresolved in reviewed sources",
     publicationState: "Published",
-    factualSummary: "Following its October 13 demand for a 48-hour review, DOJ sued California, Secretary of State Shirley Weber, and Los Angeles County Registrar Dean Logan on October 15. The complaint identifies more than 20,000 registrants whom federal agencies believe are likely noncitizens and requests an injunction against tabulating their mail ballots in federal elections until citizenship is verified. DOJ invokes federal preemption and the prohibition on noncitizen voting; its announcement describes the analysis as preliminary and ongoing. Weber's October 15 response disputes the evidence and methodology, rejects the requested ballot restrictions, and offers to review substantiated eligibility information under applicable law. AP independently corroborates the filing and reports Logan's refusal to withhold or reject ballots solely on unverified allegations. In an October 16 letter, Acting Deputy Attorney General Trent McCotter warns that knowingly tabulating ballots from people federal agencies identify as noncitizens could expose officials to aiding-and-abetting liability. Reuters corroborates the warning and reports that Weber's office referred it to her earlier objections. On October 19, DOJ filed an application for a temporary restraining order and an order to show cause regarding a preliminary injunction. Its memorandum requests segregation of flagged mail ballots and citizenship verification before tabulation, with relief by November 3. The application records state and county opposition. AP corroborates the emergency request and reports Attorney General Rob Bonta's rejection of claims of widespread fraud. Separately, DOJ announced charges against 28 alleged noncitizen registrants in California; those accusations do not adjudicate the eligibility of the roughly 20,000 people on its list. On October 20, California and Los Angeles County filed opposition briefs asking the court to deny the TRO. California disputes federal authority for the proposed ballot restrictions and argues that they conflict with voter protections, including the 90-day restriction on systematic removals. The county disputes the reliability of the matching process and warns that the requested hold lacks a workable, timely process for resolving eligibility. These are defendants' arguments, not judicial findings.",
+    factualSummary: "Following its October 13 demand for a 48-hour review, DOJ sued California, Secretary of State Shirley Weber, and Los Angeles County Registrar Dean Logan on October 15. The complaint identifies more than 20,000 registrants whom federal agencies believe are likely noncitizens and requests an injunction against tabulating their mail ballots in federal elections until citizenship is verified. DOJ invokes federal preemption and the prohibition on noncitizen voting; its announcement describes the analysis as preliminary and ongoing. Weber's October 15 response disputes the evidence and methodology, rejects the requested ballot restrictions, and offers to review substantiated eligibility information under applicable law. AP independently corroborates the filing and reports Logan's refusal to withhold or reject ballots solely on unverified allegations. In an October 16 letter, Acting Deputy Attorney General Trent McCotter warns that knowingly tabulating ballots from people federal agencies identify as noncitizens could expose officials to aiding-and-abetting liability. Reuters corroborates the warning and reports that Weber's office referred it to her earlier objections. On October 19, DOJ filed an application for a temporary restraining order and an order to show cause regarding a preliminary injunction. Its memorandum requests segregation of flagged mail ballots and citizenship verification before tabulation, with relief by November 3. The application records state and county opposition. AP corroborates the emergency request and reports Attorney General Rob Bonta's rejection of claims of widespread fraud. Separately, DOJ announced charges against 28 alleged noncitizen registrants in California; those accusations do not adjudicate the eligibility of the roughly 20,000 people on its list. On October 20, California and Los Angeles County filed opposition briefs asking the court to deny the TRO. California disputes federal authority for the proposed ballot restrictions and argues that they conflict with voter protections, including the 90-day restriction on systematic removals. The county disputes the reliability of the matching process and warns that the requested hold lacks a workable, timely process for resolving eligibility. These are defendants' arguments, not judicial findings. On October 21, California and Secretary Weber moved to dismiss under Rules 12(b)(1) and 12(b)(6). Their memorandum challenges federal standing and argues that the criminal prohibition on noncitizen voting does not authorize the requested civil injunction. The notice joins a request for an expedited October 30 dismissal hearing; it does not set that date.",
     whyItMatters: "The demand now combines a request for judicial control over ballot counting with a warning of personal criminal exposure for election officials while voting is underway. Verification errors or unresolved matches could burden eligible voters if the requested relief is granted. The lawsuit also provides a forum to test the government's evidence and authority; filing it does not itself suspend anyone's vote.",
-    limitingContext: "Eligibility verification is a legitimate governmental purpose. DOJ says it uses multiple matching and investigative checks; those assertions do not establish any listed person's ineligibility or unlawful voting. The earlier letter distinguished segregation from cancellation and offered secure electronic delivery; county officials raised security objections to the supplied drive. Weber maintains that California's existing citizenship attestations and list-maintenance procedures satisfy federal law, and raises voting-rights and 90-day quiet-period objections. She also questions consistency with the separate judgment in TK-REC-0046; no court finding on that contention was verified. The October 16 letter invokes 18 U.S.C. sections 611 and 2 and argues that targeted temporary ballot segregation differs from systematic voter removal covered by the quiet period. These are DOJ's legal positions, not a court determination of officials' criminal liability. Its list still identifies likely noncitizens, and the letter acknowledges entries outside Los Angeles County. The underlying list and accuracy of the matching process were not independently examined. DOJ's October 19 memorandum argues that temporary segregation protects lawful votes and says ballots should be counted if citizenship is verified. The emergency request is not an order. No ballot hold, disenfranchisement, injunction, criminal charge against election officials, or merits determination was verified. The separately announced charges against individuals are allegations, not convictions. The October 20 briefs do not establish that the court rejected DOJ's request. Their descriptions of matching errors and voter harm remain contested; supporting declarations and the underlying voter list were not independently verified; the reviewed filings are not a complete current docket. No historical-comparison score is assigned.",
+    limitingContext: "Eligibility verification is a legitimate governmental purpose. DOJ says it uses multiple matching and investigative checks; those assertions do not establish any listed person's ineligibility or unlawful voting. The earlier letter distinguished segregation from cancellation and offered secure electronic delivery; county officials raised security objections to the supplied drive. Weber maintains that California's existing citizenship attestations and list-maintenance procedures satisfy federal law, and raises voting-rights and 90-day quiet-period objections. She also questions consistency with the separate judgment in TK-REC-0046; no court finding on that contention was verified. The October 16 letter invokes 18 U.S.C. sections 611 and 2 and argues that targeted temporary ballot segregation differs from systematic voter removal covered by the quiet period. These are DOJ's legal positions, not a court determination of officials' criminal liability. Its list still identifies likely noncitizens, and the letter acknowledges entries outside Los Angeles County. The underlying list and accuracy of the matching process were not independently examined. DOJ's October 19 memorandum argues that temporary segregation protects lawful votes and says ballots should be counted if citizenship is verified. The emergency request is not an order. No ballot hold, disenfranchisement, injunction, criminal charge against election officials, or merits determination was verified. The separately announced charges against individuals are allegations, not convictions. The October 20 briefs do not establish that the court rejected DOJ's request. Their descriptions of matching errors and voter harm remain contested; supporting declarations and the underlying voter list were not independently verified; the reviewed filings are not a complete current docket. The October 21 motion asks for dismissal; it is not a dismissal order or a ruling on the separate TRO request. No historical-comparison score is assigned.",
     subjects: ["U.S. Department of Justice", "California Secretary of State", "Los Angeles County Registrar-Recorder/County Clerk", "Shirley Weber", "R. Trent McCotter", "Dean Logan"],
     tags: ["voter eligibility", "citizenship verification", "mail ballots", "federal-state relations", "midterms"],
     sources: [
@@ -1995,13 +1995,15 @@ export const eboxes: EBox[] = [
       { sourceType: "Reporting", title: "California election charges and emergency ballot request", publisher: "Associated Press / ClickOrlando", url: "https://www.clickorlando.com/news/politics/2026/10/19/justice-department-charges-more-than-2-dozen-in-california-sweep-targeting-noncitizen-voters/", retrievalDate: "2026-10-20", limitingContext: "Updated October 19 report corroborates the filing and includes Bonta's response. The updated version distinguishes charges from arrests; no count of arrests is adopted here." },
       {"sourceType": "Court record", "title": "California opposition to TRO, Document 31-1, October 20", "publisher": "California Attorney General / filed copy hosted by Democracy Docket", "url": "https://www.democracydocket.com/wp-content/uploads/2026/10/2026-10-20-TRO-Opposition-CA.pdf", "retrievalDate": "2026-10-21", "limitingContext": "Filing stamp verified visually; reviewed requested disposition, preemption, quiet-period, and voting-rights arguments. State advocacy, not a ruling; supporting declarations not independently verified."},
       {"sourceType": "Court record", "title": "Los Angeles County opposition to TRO, Document 32-1, October 20", "publisher": "Los Angeles County / filed copy hosted by Democracy Docket", "url": "https://www.democracydocket.com/wp-content/uploads/2026/10/2026-10-20-TRO-Opposition.pdf", "retrievalDate": "2026-10-21", "limitingContext": "Filing stamp verified visually; reviewed objections to matching reliability, timing, and requested relief. Does not independently establish any voter's citizenship or an actual ballot hold."},
+      {"sourceType": "Court record", "title": "California motion to dismiss, Document 65, October 21", "publisher": "California Attorney General / filed copy hosted by Democracy Docket", "url": "https://www.democracydocket.com/wp-content/uploads/2026/10/2026-10-21-Notice-of-CAs-motion-to-dismiss.pdf", "retrievalDate": "2026-10-22", "limitingContext": "Four-page notice reviewed. Confirms the filing and requested expedited hearing, not a court-set date or disposition."},
+      {"sourceType": "Court record", "title": "California memorandum supporting dismissal, Document 65-1, October 21", "publisher": "California Attorney General / filed copy hosted by Democracy Docket", "url": "https://www.democracydocket.com/wp-content/uploads/2026/10/2026-10-21-CAs-memorandum-in-support-of-motion-to-dismiss.pdf", "retrievalDate": "2026-10-22", "limitingContext": "Caption and filing stamp visually verified; standing arguments, introduction and requested disposition reviewed. State advocacy, not a ruling or an independent verification of voter eligibility."},
     ],
     assessments: [],
     revisions: [{ revision: "1.0", date: "2026-10-15", note: "Initial publication after visually reviewing the DOJ letter, state and county responses, and AP corroboration. Preserves lawful verification purpose, the distinction between holds and cancellation, data uncertainty, and unverified implementation. No private voter data or historical score added." },
       { revision: "1.1", date: "2026-10-16", note: "Updated the demand to reflect the filed California lawsuit, requested relief, federal rationale, and October 15 state response. Preserved allegations as disputed and implementation as unverified; no voter data or historical score added." },
-      { revision: "1.2", date: "2026-10-18", note: "Added the October 16 criminal-liability warning after reviewing both pages of the signed DOJ letter and Reuters corroboration. Preserved federal statutory arguments, state objections, likely-status uncertainty, and unverified enforcement outcomes; no historical score changed." }, { revision: "1.3", date: "2026-10-20", note: "Reviewed the October 19 emergency application and memorandum, DOJ charging announcement, and updated AP report. Added requested relief and opposition while distinguishing individual charges from established ineligibility and court-ordered ballot restrictions. No private voter data or historical score added." }, {"revision": "1.4", "date": "2026-10-21", "note": "Reviewed October 20 state and county opposition briefs and verified filing stamps. Added attributed challenges to federal authority, data reliability, and ballot-hold procedures; no injunction or voter eligibility determination verified. Prior revisions and historical assessments preserved."}],
-    lastChecked: "2026-10-21",
-    nextReviewDate: "2026-10-22",
+      { revision: "1.2", date: "2026-10-18", note: "Added the October 16 criminal-liability warning after reviewing both pages of the signed DOJ letter and Reuters corroboration. Preserved federal statutory arguments, state objections, likely-status uncertainty, and unverified enforcement outcomes; no historical score changed." }, { revision: "1.3", date: "2026-10-20", note: "Reviewed the October 19 emergency application and memorandum, DOJ charging announcement, and updated AP report. Added requested relief and opposition while distinguishing individual charges from established ineligibility and court-ordered ballot restrictions. No private voter data or historical score added." }, {"revision": "1.4", "date": "2026-10-21", "note": "Reviewed October 20 state and county opposition briefs and verified filing stamps. Added attributed challenges to federal authority, data reliability, and ballot-hold procedures; no injunction or voter eligibility determination verified. Prior revisions and historical assessments preserved."}, {"revision": "1.5", "date": "2026-10-22", "note": "Reviewed the October 21 dismissal motion and supporting memorandum. Added the requested disposition and attributed standing and statutory-authority objections; distinguished a requested hearing from a scheduled hearing. No outcome, voter eligibility, or historical-score change inferred."}],
+    lastChecked: "2026-10-22",
+    nextReviewDate: "2026-10-23",
   },
   {
     id: "TK-REC-0051",
@@ -2213,6 +2215,66 @@ export const eboxes: EBox[] = [
     ],
     "lastChecked": "2026-10-21",
     "nextReviewDate": "2026-10-27"
+  },
+  {
+    "id": "TK-REC-0058",
+    "slug": "democrats-challenge-election-administration-demands",
+    "title": "Democratic plaintiffs challenge federal election demands and alleged intimidation",
+    "category": "Elections & democratic continuity",
+    "context": "DSCC v. Trump, D.D.C. No. 1:26-cv-03674",
+    "dateLabel": "October 20, 2026",
+    "sortDate": "2026-10-20",
+    "status": "Complaint filed; no injunction or merits ruling verified in reviewed sources",
+    "publicationState": "Published",
+    "factualSummary": "On October 20, Democratic campaign organizations, the Nevada Democratic Party, congressional leaders Chuck Schumer and Hakeem Jeffries, and a California voter sued President Trump, DOJ, DHS, and their leaders. Their complaint seeks to bar federal demands concerning voter removal, ballot issuance and counting, and alleged threats against election officials. It invokes constitutional limits on executive authority and Section 11(b) of the Voting Rights Act. AP independently corroborates the filing and reports DOJ's response: election integrity is an administration priority, and its actions rest on law and are being litigated.",
+    "whyItMatters": "Pressure on officials can affect how elections are administered even before a court grants relief. This separate lawsuit tests the boundary between lawful federal enforcement and coercion of state election administration; its existence also documents an institutional avenue for contesting executive conduct.",
+    "limitingContext": "The complaint presents plaintiffs' allegations, not judicial findings of intimidation or disenfranchisement. Enforcing voter-eligibility laws is a legitimate governmental function; this record does not decide the legality of the challenged actions. The reviewed complaint and reporting are not a complete current docket. No individual voter's eligibility or actual ballot loss was independently established. The California ballot litigation is tracked separately in TK-REC-0050; the ad-funding and data-policy cases have different claims. No historical-comparison score is assigned.",
+    "subjects": [
+      "DSCC",
+      "DCCC",
+      "Democratic Governors Association",
+      "Nevada Democratic Party",
+      "Chuck Schumer",
+      "Hakeem Jeffries",
+      "Donald Trump",
+      "U.S. Department of Justice",
+      "U.S. Department of Homeland Security"
+    ],
+    "tags": [
+      "election administration",
+      "voter intimidation allegations",
+      "federal-state relations",
+      "Voting Rights Act",
+      "midterms"
+    ],
+    "sources": [
+      {
+        "sourceType": "Court record",
+        "title": "DSCC v. Trump \u2014 October 20 complaint, Document 1",
+        "publisher": "U.S. District Court for the District of Columbia / filed copy hosted by Democracy Docket",
+        "url": "https://www.democracydocket.com/wp-content/uploads/2026/10/Complaint-Oct.-20-2026.pdf",
+        "retrievalDate": "2026-10-22",
+        "limitingContext": "Filing stamp and caption visually verified; introduction, claims and prayer for relief reviewed. Pleading allegations are not findings. The host has ties to plaintiffs' counsel; its editorial characterizations are not adopted."
+      },
+      {
+        "sourceType": "Reporting",
+        "title": "Democrats sue over federal election-administration demands",
+        "publisher": "Associated Press / ClickOrlando",
+        "url": "https://www.clickorlando.com/news/politics/2026/10/21/democrats-sue-to-block-trump-administration-from-usurping-states-authority-to-administer-elections/",
+        "retrievalDate": "2026-10-22",
+        "limitingContext": "October 21 independent corroboration includes DOJ's lawful-enforcement response. Reporting does not establish the truth of the pleading's contested allegations or a subsequent court disposition."
+      }
+    ],
+    "assessments": [],
+    "revisions": [
+      {
+        "revision": "1.0",
+        "date": "2026-10-22",
+        "note": "Initial publication after reviewing the filed complaint and AP corroboration with DOJ response. Requested relief and allegations remain distinct from adjudication. No private voter details or historical score added."
+      }
+    ],
+    "lastChecked": "2026-10-22",
+    "nextReviewDate": "2026-10-23"
   },
 ];
 
