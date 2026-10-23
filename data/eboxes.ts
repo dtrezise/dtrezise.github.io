@@ -1966,16 +1966,16 @@ export const eboxes: EBox[] = [
   {
     id: "TK-REC-0050",
     slug: "doj-california-citizenship-ballot-demand",
-    title: "DOJ seeks emergency order to set aside flagged California mail ballots",
+    title: "DOJ appeals claimed denial of emergency California ballot restrictions",
     category: "Elections & democratic continuity",
     context: "October 13 federal demand; United States v. California, C.D. Cal. No. 2:26-cv-12025",
-    dateLabel: "October 13–21, 2026",
-    sortDate: "2026-10-21",
-    status: "California moved to dismiss October 21; dismissal and TRO requests unresolved in reviewed sources",
+    dateLabel: "October 13–22, 2026",
+    sortDate: "2026-10-22",
+    status: "DOJ filed notice of appeal October 22, claiming constructive denial; no injunction or appellate disposition verified",
     publicationState: "Published",
-    factualSummary: "Following its October 13 demand for a 48-hour review, DOJ sued California, Secretary of State Shirley Weber, and Los Angeles County Registrar Dean Logan on October 15. The complaint identifies more than 20,000 registrants whom federal agencies believe are likely noncitizens and requests an injunction against tabulating their mail ballots in federal elections until citizenship is verified. DOJ invokes federal preemption and the prohibition on noncitizen voting; its announcement describes the analysis as preliminary and ongoing. Weber's October 15 response disputes the evidence and methodology, rejects the requested ballot restrictions, and offers to review substantiated eligibility information under applicable law. AP independently corroborates the filing and reports Logan's refusal to withhold or reject ballots solely on unverified allegations. In an October 16 letter, Acting Deputy Attorney General Trent McCotter warns that knowingly tabulating ballots from people federal agencies identify as noncitizens could expose officials to aiding-and-abetting liability. Reuters corroborates the warning and reports that Weber's office referred it to her earlier objections. On October 19, DOJ filed an application for a temporary restraining order and an order to show cause regarding a preliminary injunction. Its memorandum requests segregation of flagged mail ballots and citizenship verification before tabulation, with relief by November 3. The application records state and county opposition. AP corroborates the emergency request and reports Attorney General Rob Bonta's rejection of claims of widespread fraud. Separately, DOJ announced charges against 28 alleged noncitizen registrants in California; those accusations do not adjudicate the eligibility of the roughly 20,000 people on its list. On October 20, California and Los Angeles County filed opposition briefs asking the court to deny the TRO. California disputes federal authority for the proposed ballot restrictions and argues that they conflict with voter protections, including the 90-day restriction on systematic removals. The county disputes the reliability of the matching process and warns that the requested hold lacks a workable, timely process for resolving eligibility. These are defendants' arguments, not judicial findings. On October 21, California and Secretary Weber moved to dismiss under Rules 12(b)(1) and 12(b)(6). Their memorandum challenges federal standing and argues that the criminal prohibition on noncitizen voting does not authorize the requested civil injunction. The notice joins a request for an expedited October 30 dismissal hearing; it does not set that date.",
+    factualSummary: "Following its October 13 demand for a 48-hour review, DOJ sued California, Secretary of State Shirley Weber, and Los Angeles County Registrar Dean Logan on October 15. The complaint identifies more than 20,000 registrants whom federal agencies believe are likely noncitizens and requests an injunction against tabulating their mail ballots in federal elections until citizenship is verified. DOJ invokes federal preemption and the prohibition on noncitizen voting; its announcement describes the analysis as preliminary and ongoing. Weber's October 15 response disputes the evidence and methodology, rejects the requested ballot restrictions, and offers to review substantiated eligibility information under applicable law. AP independently corroborates the filing and reports Logan's refusal to withhold or reject ballots solely on unverified allegations. In an October 16 letter, Acting Deputy Attorney General Trent McCotter warns that knowingly tabulating ballots from people federal agencies identify as noncitizens could expose officials to aiding-and-abetting liability. Reuters corroborates the warning and reports that Weber's office referred it to her earlier objections. On October 19, DOJ filed an application for a temporary restraining order and an order to show cause regarding a preliminary injunction. Its memorandum requests segregation of flagged mail ballots and citizenship verification before tabulation, with relief by November 3. The application records state and county opposition. AP corroborates the emergency request and reports Attorney General Rob Bonta's rejection of claims of widespread fraud. Separately, DOJ announced charges against 28 alleged noncitizen registrants in California; those accusations do not adjudicate the eligibility of the roughly 20,000 people on its list. On October 20, California and Los Angeles County filed opposition briefs asking the court to deny the TRO. California disputes federal authority for the proposed ballot restrictions and argues that they conflict with voter protections, including the 90-day restriction on systematic removals. The county disputes the reliability of the matching process and warns that the requested hold lacks a workable, timely process for resolving eligibility. These are defendants' arguments, not judicial findings. On October 21, California and Secretary Weber moved to dismiss under Rules 12(b)(1) and 12(b)(6). Their memorandum challenges federal standing and argues that the criminal prohibition on noncitizen voting does not authorize the requested civil injunction. The notice joins a request for an expedited October 30 dismissal hearing; it does not set that date. On October 22, DOJ filed a notice of appeal to the Ninth Circuit. The notice says the district court had not ruled by DOJ's requested noon deadline and argues that this silence amounts to a constructive denial of preliminary injunctive relief. Reuters independently corroborates the request for appellate intervention.",
     whyItMatters: "The demand now combines a request for judicial control over ballot counting with a warning of personal criminal exposure for election officials while voting is underway. Verification errors or unresolved matches could burden eligible voters if the requested relief is granted. The lawsuit also provides a forum to test the government's evidence and authority; filing it does not itself suspend anyone's vote.",
-    limitingContext: "Eligibility verification is a legitimate governmental purpose. DOJ says it uses multiple matching and investigative checks; those assertions do not establish any listed person's ineligibility or unlawful voting. The earlier letter distinguished segregation from cancellation and offered secure electronic delivery; county officials raised security objections to the supplied drive. Weber maintains that California's existing citizenship attestations and list-maintenance procedures satisfy federal law, and raises voting-rights and 90-day quiet-period objections. She also questions consistency with the separate judgment in TK-REC-0046; no court finding on that contention was verified. The October 16 letter invokes 18 U.S.C. sections 611 and 2 and argues that targeted temporary ballot segregation differs from systematic voter removal covered by the quiet period. These are DOJ's legal positions, not a court determination of officials' criminal liability. Its list still identifies likely noncitizens, and the letter acknowledges entries outside Los Angeles County. The underlying list and accuracy of the matching process were not independently examined. DOJ's October 19 memorandum argues that temporary segregation protects lawful votes and says ballots should be counted if citizenship is verified. The emergency request is not an order. No ballot hold, disenfranchisement, injunction, criminal charge against election officials, or merits determination was verified. The separately announced charges against individuals are allegations, not convictions. The October 20 briefs do not establish that the court rejected DOJ's request. Their descriptions of matching errors and voter harm remain contested; supporting declarations and the underlying voter list were not independently verified; the reviewed filings are not a complete current docket. The October 21 motion asks for dismissal; it is not a dismissal order or a ruling on the separate TRO request. No historical-comparison score is assigned.",
+    limitingContext: "Eligibility verification is a legitimate governmental purpose. DOJ says it uses multiple matching and investigative checks; those assertions do not establish any listed person's ineligibility or unlawful voting. The earlier letter distinguished segregation from cancellation and offered secure electronic delivery; county officials raised security objections to the supplied drive. Weber maintains that California's existing citizenship attestations and list-maintenance procedures satisfy federal law, and raises voting-rights and 90-day quiet-period objections. She also questions consistency with the separate judgment in TK-REC-0046; no court finding on that contention was verified. The October 16 letter invokes 18 U.S.C. sections 611 and 2 and argues that targeted temporary ballot segregation differs from systematic voter removal covered by the quiet period. These are DOJ's legal positions, not a court determination of officials' criminal liability. Its list still identifies likely noncitizens, and the letter acknowledges entries outside Los Angeles County. The underlying list and accuracy of the matching process were not independently examined. DOJ's October 19 memorandum argues that temporary segregation protects lawful votes and says ballots should be counted if citizenship is verified. The emergency request is not an order. No ballot hold, disenfranchisement, injunction, criminal charge against election officials, or merits determination was verified. The separately announced charges against individuals are allegations, not convictions. The October 20 briefs do not establish that the court rejected DOJ's request. Their descriptions of matching errors and voter harm remain contested; supporting declarations and the underlying voter list were not independently verified; the reviewed filings are not a complete current docket. The October 21 motion asks for dismissal; it is not a dismissal order or a ruling on the separate TRO request. The October 22 notice establishes an appeal filing, not a written denial, an appellate acceptance of DOJ's jurisdictional theory, or an injunction. The noon deadline was requested by DOJ; it was not verified as a court-imposed deadline. No historical-comparison score is assigned.",
     subjects: ["U.S. Department of Justice", "California Secretary of State", "Los Angeles County Registrar-Recorder/County Clerk", "Shirley Weber", "R. Trent McCotter", "Dean Logan"],
     tags: ["voter eligibility", "citizenship verification", "mail ballots", "federal-state relations", "midterms"],
     sources: [
@@ -1997,13 +1997,15 @@ export const eboxes: EBox[] = [
       {"sourceType": "Court record", "title": "Los Angeles County opposition to TRO, Document 32-1, October 20", "publisher": "Los Angeles County / filed copy hosted by Democracy Docket", "url": "https://www.democracydocket.com/wp-content/uploads/2026/10/2026-10-20-TRO-Opposition.pdf", "retrievalDate": "2026-10-21", "limitingContext": "Filing stamp verified visually; reviewed objections to matching reliability, timing, and requested relief. Does not independently establish any voter's citizenship or an actual ballot hold."},
       {"sourceType": "Court record", "title": "California motion to dismiss, Document 65, October 21", "publisher": "California Attorney General / filed copy hosted by Democracy Docket", "url": "https://www.democracydocket.com/wp-content/uploads/2026/10/2026-10-21-Notice-of-CAs-motion-to-dismiss.pdf", "retrievalDate": "2026-10-22", "limitingContext": "Four-page notice reviewed. Confirms the filing and requested expedited hearing, not a court-set date or disposition."},
       {"sourceType": "Court record", "title": "California memorandum supporting dismissal, Document 65-1, October 21", "publisher": "California Attorney General / filed copy hosted by Democracy Docket", "url": "https://www.democracydocket.com/wp-content/uploads/2026/10/2026-10-21-CAs-memorandum-in-support-of-motion-to-dismiss.pdf", "retrievalDate": "2026-10-22", "limitingContext": "Caption and filing stamp visually verified; standing arguments, introduction and requested disposition reviewed. State advocacy, not a ruling or an independent verification of voter eligibility."},
+      {"sourceType": "Court record", "title": "October 22 notice of appeal, Document 74", "publisher": "Department of Justice / filed copy hosted by Democracy Docket", "url": "https://www.democracydocket.com/wp-content/uploads/2026/10/74-2026-10-26-Notice-of-appeal-1.pdf", "retrievalDate": "2026-10-23", "limitingContext": "Both pages reviewed; October 22 filing stamp and signed date control despite October 26 in the host filename. DOJ characterizes the absence of a ruling as constructive denial. The notice does not establish appellate jurisdiction or relief."},
+      {"sourceType": "Reporting", "title": "Justice Department asks appeals court to intervene in California ballot case", "publisher": "Reuters / MarketScreener", "url": "https://www.marketscreener.com/news/justice-department-asks-appeals-court-to-intervene-in-california-ballot-case-ce785cdede8af724", "retrievalDate": "2026-10-23", "limitingContext": "October 22 brief independently corroborates appellate intervention sought. It does not report an appellate ruling or establish any voter's citizenship."},
     ],
     assessments: [],
     revisions: [{ revision: "1.0", date: "2026-10-15", note: "Initial publication after visually reviewing the DOJ letter, state and county responses, and AP corroboration. Preserves lawful verification purpose, the distinction between holds and cancellation, data uncertainty, and unverified implementation. No private voter data or historical score added." },
       { revision: "1.1", date: "2026-10-16", note: "Updated the demand to reflect the filed California lawsuit, requested relief, federal rationale, and October 15 state response. Preserved allegations as disputed and implementation as unverified; no voter data or historical score added." },
-      { revision: "1.2", date: "2026-10-18", note: "Added the October 16 criminal-liability warning after reviewing both pages of the signed DOJ letter and Reuters corroboration. Preserved federal statutory arguments, state objections, likely-status uncertainty, and unverified enforcement outcomes; no historical score changed." }, { revision: "1.3", date: "2026-10-20", note: "Reviewed the October 19 emergency application and memorandum, DOJ charging announcement, and updated AP report. Added requested relief and opposition while distinguishing individual charges from established ineligibility and court-ordered ballot restrictions. No private voter data or historical score added." }, {"revision": "1.4", "date": "2026-10-21", "note": "Reviewed October 20 state and county opposition briefs and verified filing stamps. Added attributed challenges to federal authority, data reliability, and ballot-hold procedures; no injunction or voter eligibility determination verified. Prior revisions and historical assessments preserved."}, {"revision": "1.5", "date": "2026-10-22", "note": "Reviewed the October 21 dismissal motion and supporting memorandum. Added the requested disposition and attributed standing and statutory-authority objections; distinguished a requested hearing from a scheduled hearing. No outcome, voter eligibility, or historical-score change inferred."}],
-    lastChecked: "2026-10-22",
-    nextReviewDate: "2026-10-23",
+      { revision: "1.2", date: "2026-10-18", note: "Added the October 16 criminal-liability warning after reviewing both pages of the signed DOJ letter and Reuters corroboration. Preserved federal statutory arguments, state objections, likely-status uncertainty, and unverified enforcement outcomes; no historical score changed." }, { revision: "1.3", date: "2026-10-20", note: "Reviewed the October 19 emergency application and memorandum, DOJ charging announcement, and updated AP report. Added requested relief and opposition while distinguishing individual charges from established ineligibility and court-ordered ballot restrictions. No private voter data or historical score added." }, {"revision": "1.4", "date": "2026-10-21", "note": "Reviewed October 20 state and county opposition briefs and verified filing stamps. Added attributed challenges to federal authority, data reliability, and ballot-hold procedures; no injunction or voter eligibility determination verified. Prior revisions and historical assessments preserved."}, {"revision": "1.5", "date": "2026-10-22", "note": "Reviewed the October 21 dismissal motion and supporting memorandum. Added the requested disposition and attributed standing and statutory-authority objections; distinguished a requested hearing from a scheduled hearing. No outcome, voter eligibility, or historical-score change inferred."}, {"revision": "1.6", "date": "2026-10-23", "note": "Reviewed the October 22 notice of appeal, verified the filing stamp despite a conflicting host filename, and checked Reuters corroboration. Added DOJ's constructive-denial theory without treating it as a judicial ruling or granted relief. Prior revisions and historical assessments preserved."}],
+    lastChecked: "2026-10-23",
+    nextReviewDate: "2026-10-24",
   },
   {
     id: "TK-REC-0051",
@@ -2275,6 +2277,147 @@ export const eboxes: EBox[] = [
     ],
     "lastChecked": "2026-10-22",
     "nextReviewDate": "2026-10-23"
+  },
+  {
+    "id": "TK-REC-0059",
+    "slug": "louise-lucas-federal-indictment",
+    "title": "Federal indictment charges Virginia Sen. Louise Lucas; guilt and motive remain unresolved",
+    "category": "Law, courts & due process",
+    "context": "United States v. Lucas et al., E.D. Va. No. 4:26-cr-00075-JKW-RJK",
+    "dateLabel": "October 14–22, 2026",
+    "sortDate": "2026-10-22",
+    "status": "Indictment publicly announced; AP reports release on recognizance; no merits adjudication verified",
+    "publicationState": "Published",
+    "factualSummary": "DOJ publicly announced an eight-count indictment of seven defendants on October 22. The filed indictment is dated October 14 and names Virginia Sen. L. Louise Lucas in five counts: racketeering conspiracy, marijuana-distribution conspiracy, money-laundering conspiracy, honest-services-fraud conspiracy, and maintaining drug-involved premises. DOJ alleges misuse of public office for a cannabis enterprise and says prosecutors are following the evidence. AP reports that Lucas appeared in court October 22 and was released on her own recognizance. It reports her rejection of intimidation and Blanche's denial of political payback; he says the investigation predates this administration.",
+    "whyItMatters": "A prosecution involving an opposition legislative leader warrants scrutiny of evidentiary grounds and prosecutorial independence. The charging document supplies a specific legal process to examine; her political role alone does not establish either retaliation or immunity from lawful enforcement.",
+    "limitingContext": "An indictment contains allegations, not findings of guilt; all defendants retain the presumption of innocence. Lucas is charged in five of the eight counts, not every offense listed for the group. DOJ's public release supplies the official copy even though the original caption bears an under-seal marking. The underlying evidence and investigative origin were not independently audited. AP says Lucas's statement did not address the substance of the charges and that she is not on the ballot this year. The reported release was not independently checked against a release order. No unlawful motive, conviction, or merits ruling is established by this review. No historical-comparison score is assigned.",
+    "subjects": [
+      "L. Louise Lucas",
+      "Department of Justice",
+      "Federal Bureau of Investigation",
+      "Todd Blanche"
+    ],
+    "tags": [
+      "opposition",
+      "criminal indictment",
+      "prosecutorial independence",
+      "presumption of innocence"
+    ],
+    "sources": [
+      {
+        "sourceType": "Court record",
+        "title": "October 14 indictment, Document 3, publicly released October 22",
+        "publisher": "U.S. District Court for the Eastern District of Virginia / DOJ public copy",
+        "url": "https://www.justice.gov/opa/media/1467596/dl?inline=",
+        "retrievalDate": "2026-10-23",
+        "limitingContext": "Caption, filing stamp and charge allocation visually reviewed. Names Lucas in Counts 1–5; other defendants face different counts. DOJ supplies the document publicly; allegations and supporting evidence have not been adjudicated here."
+      },
+      {
+        "sourceType": "Official record",
+        "title": "DOJ announces Virginia state senator indictment",
+        "publisher": "Department of Justice",
+        "url": "https://www.justice.gov/opa/pr/virginia-state-senator-indicted-leading-criminal-marijuana-distribution-enterprise",
+        "retrievalDate": "2026-10-23",
+        "limitingContext": "October 22 prosecutorial announcement and evidence-based-enforcement rationale. Its allegations remain attributed; the release expressly preserves the presumption of innocence."
+      },
+      {
+        "sourceType": "Reporting",
+        "title": "Virginia lawmaker Lucas accused of leading marijuana criminal conspiracy",
+        "publisher": "Associated Press",
+        "url": "https://apnews.com/article/l-louise-lucas-virginia-corruption-investigation-767ed83f970ba6dec48048dcff2a28d0",
+        "retrievalDate": "2026-10-23",
+        "limitingContext": "October 22 independent corroboration, reported release, Lucas response and Blanche denial. The release order and investigative origin were not separately verified."
+      }
+    ],
+    "assessments": [],
+    "revisions": [
+      {
+        "revision": "1.0",
+        "date": "2026-10-23",
+        "note": "Published after visual review of the indictment caption and charge allocation, DOJ announcement, and updated AP reporting. Preserves presumption of innocence, reported release, opposing responses, and limits on motive and underlying evidence. Historical scoring withheld."
+      }
+    ],
+    "lastChecked": "2026-10-23",
+    "nextReviewDate": "2026-10-30"
+  },
+  {
+    "id": "TK-REC-0060",
+    "slug": "supreme-court-stays-new-hampshire-student-id-relief",
+    "title": "Supreme Court stays relief allowing consideration of New Hampshire student IDs",
+    "category": "Elections & democratic continuity",
+    "context": "Scanlan v. Coalition for Open Democracy, Supreme Court No. 26A512; First Circuit No. 26-2132",
+    "dateLabel": "October 22, 2026",
+    "sortDate": "2026-10-22",
+    "status": "Preliminary injunction stayed during appeal and any timely certiorari proceedings; no final merits decision",
+    "publicationState": "Published",
+    "factualSummary": "On October 22, the Supreme Court stayed the New Hampshire district court's October 2 and October 5 preliminary-injunction orders. Those orders had left HB 323 in force but restricted state guidance that prevented officials from considering student IDs as evidence under alternative identity-verification procedures. The Supreme Court invoked the principle against lower federal courts changing election rules close to voting. Justice Ketanji Brown Jackson dissented, reasoning that the injunction corrected misleading guidance rather than changed the law. The official docket confirms the stay; New Hampshire Bulletin independently corroborates the development.",
+    "whyItMatters": "The dispute concerns access to voting and the timing of judicial protection. A stay can determine the rules applied during an election before the underlying legal claims are finally resolved. The disagreement also shows why a change to official guidance must be distinguished from invalidation of a statute.",
+    "limitingContext": "New Hampshire argues that changing months-old guidance after election-worker training and voter outreach would create confusion and administrative disruption. Its stated purposes include reliable identification and election integrity. The district court denied an injunction against HB 323 itself; it required only that student IDs could be considered with other evidence under specified verification procedures. Jackson's view of misleading guidance is a dissent, not the Supreme Court's holding. The stay lasts through the First Circuit appeal and disposition of a timely certiorari petition; it ends automatically if certiorari is denied or when the Supreme Court's judgment is sent down if review is granted. It does not finally resolve constitutionality, establish fraud, or show that every student is unable to vote. No voter-level effect or later implementing guidance was verified. No historical-comparison score is assigned.",
+    "subjects": [
+      "Supreme Court of the United States",
+      "New Hampshire Secretary of State",
+      "Coalition for Open Democracy",
+      "Ketanji Brown Jackson"
+    ],
+    "tags": [
+      "student identification",
+      "voting access",
+      "emergency stay",
+      "election administration",
+      "judicial review"
+    ],
+    "sources": [
+      {
+        "sourceType": "Court record",
+        "title": "October 22 stay order and Jackson dissent, No. 26A512",
+        "publisher": "Supreme Court of the United States",
+        "url": "https://www.supremecourt.gov/opinions/26pdf/26a512_6j37.pdf",
+        "retrievalDate": "2026-10-23",
+        "limitingContext": "All three pages reviewed; date and operative stay visually checked. Establishes preliminary relief stayed and the dissent, not a final merits judgment."
+      },
+      {
+        "sourceType": "Court record",
+        "title": "Scanlan v. Coalition for Open Democracy — official docket",
+        "publisher": "Supreme Court of the United States",
+        "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/26a512.html",
+        "retrievalDate": "2026-10-23",
+        "limitingContext": "Confirms October 22 grant and conditional duration of stay. Does not establish subsequent local implementation or individual voting outcomes."
+      },
+      {
+        "sourceType": "Court record",
+        "title": "Lower-court orders in stay application appendix",
+        "publisher": "U.S. District Court for the District of New Hampshire / Supreme Court filing",
+        "url": "https://www.supremecourt.gov/DocketPDF/26/26A512/429592/20261015080505311_Appendix%20-%20Final.pdf",
+        "retrievalDate": "2026-10-23",
+        "limitingContext": "Reviewed operative October 2 disposition at appendix 64a–65a and October 5 order at 66a. They distinguish denial of relief against the statute from the narrower injunction against guidance."
+      },
+      {
+        "sourceType": "Court record",
+        "title": "New Hampshire October 15 application for a stay",
+        "publisher": "New Hampshire Attorney General / Supreme Court filing",
+        "url": "https://www.supremecourt.gov/DocketPDF/26/26A512/429592/20261015080421013_Coalition%20for%20Open%20Democracy%20-%20SCOTUS%20Stay%20Application.pdf",
+        "retrievalDate": "2026-10-23",
+        "limitingContext": "Reviewed introduction and procedural account, including training, outreach and disruption arguments. Party advocacy is distinguished from court findings."
+      },
+      {
+        "sourceType": "Reporting",
+        "title": "US Supreme Court ruling restores NH law blocking use of student IDs at polls",
+        "publisher": "New Hampshire Bulletin / States Newsroom",
+        "url": "https://newhampshirebulletin.com/2026/10/22/us-supreme-court-ruling-restores-nh-law-blocking-use-of-student-ids-at-polls/",
+        "retrievalDate": "2026-10-23",
+        "limitingContext": "October 22 independent corroboration. The initial report preceded availability of the dissent and describes the lower injunction broadly; the original orders control this record's narrower account."
+      }
+    ],
+    "assessments": [],
+    "revisions": [
+      {
+        "revision": "1.0",
+        "date": "2026-10-23",
+        "note": "Published from the official stay and docket, operative lower-court orders, state application, and independent corroboration. Distinguishes guidance relief from invalidation of HB 323, retains state rationale and Jackson dissent, and makes no final merits or voter-impact claim. Historical scoring withheld."
+      }
+    ],
+    "lastChecked": "2026-10-23",
+    "nextReviewDate": "2026-10-27"
   },
 ];
 
