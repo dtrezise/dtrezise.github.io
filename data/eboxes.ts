@@ -2781,6 +2781,71 @@ export const eboxes: EBox[] = [
     "lastChecked": "2026-10-28",
     "nextReviewDate": "2026-11-04"
   },
+  {
+    "id": "TK-REC-0066",
+    "slug": "court-restrains-election-worker-prosecution-threats",
+    "title": "Court issued temporary limits on federal ballot demands and threats against election workers",
+    "category": "Elections & democratic continuity",
+    "context": "SEIU v. DOJ, N.D. Cal. No. 3:26-cv-12800-TLT",
+    "dateLabel": "October 30, 2026",
+    "sortDate": "2026-10-30",
+    "status": "October 30 TRO issued; government announced intent to seek modification, dissolution or appeal; subsequent disposition unverified",
+    "publicationState": "Published",
+    "factualSummary": "On October 30, Judge Trina Thompson granted SEIU, AFSCME, LULAC and NAACP temporary relief against DOJ and DHS. The order restricts demands to remove registered voters, withhold ballots or segregate votes solely on federal allegations of ineligibility, and related prosecution threats against election workers. It requires notice to affected jurisdictions and disclosure to the court of specified investigative demands. Reuters corroborates issuance and reports that DOJ had no immediate comment. The administration describes its election oversight as protecting election security and public confidence. In a same-day filing, defendants announced that by October 31 they intended to seek modification or dissolution, or alternatively appeal.",
+    "whyItMatters": "The case tests whether federal enforcement methods improperly pressure workers carrying out state election procedures. Temporary judicial intervention is an institutional check; it does not by itself establish compliance, lasting protection or the ultimate outcome.",
+    "limitingContext": "The court acted without notice under Rule 65(b), making a preliminary likelihood assessment, not a final merits judgment. Its discussion centers on Section 11(b) and the Elections Clause; it expressly defers detailed Fifth Amendment and APA analysis despite broader language in its conclusion. The order sets November 16 at 5 p.m. as its expiration, November 2 at noon for defendants' preliminary-injunction response, and November 13 for a hearing. The government notice establishes intent, not an actual appeal or a ruling granting relief. No later modification, stay, compliance or appeal disposition was verified; these documents are not a complete current docket. Lawful voter-eligibility enforcement remains a legitimate purpose, and this record does not determine any individual's eligibility. The California ballot suit (TK-REC-0050), Democratic plaintiffs' suit (TK-REC-0058) and nurses' field-operations case (TK-REC-0062) remain distinct. No historical-comparison score is assigned.",
+    "subjects": [
+      "Department of Justice",
+      "Department of Homeland Security",
+      "SEIU",
+      "AFSCME",
+      "LULAC",
+      "NAACP",
+      "Trina Thompson"
+    ],
+    "tags": [
+      "election workers",
+      "temporary restraining order",
+      "voter intimidation",
+      "federal-state relations"
+    ],
+    "sources": [
+      {
+        "sourceType": "Court record",
+        "title": "October 30 order granting temporary restraining order, Document 26",
+        "publisher": "U.S. District Court for the Northern District of California / RECAP",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.482447/gov.uscourts.cand.482447.26.0.pdf",
+        "retrievalDate": "2026-11-01",
+        "limitingContext": "Eight-page filed order reviewed; stamped page 7 visually verified. Without-notice temporary relief and preliminary reasoning; not a final judgment or complete subsequent docket."
+      },
+      {
+        "sourceType": "Court record",
+        "title": "Notice of intent to seek modification, dissolution or appellate review, Document 30",
+        "publisher": "U.S. Department of Justice / filed copy via RECAP",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.482447/gov.uscourts.cand.482447.30.0.pdf",
+        "retrievalDate": "2026-11-01",
+        "limitingContext": "October 30 notice identifies alternative contemplated challenges. Does not establish that either was filed or granted."
+      },
+      {
+        "sourceType": "Reporting",
+        "title": "Judge orders Trump administration to cease threats to prosecute election officials",
+        "publisher": "Reuters / MarketScreener",
+        "url": "https://uk.marketscreener.com/news/judge-orders-trump-administration-to-cease-threats-to-prosecute-election-officials-ce785fd8d980f42c",
+        "retrievalDate": "2026-11-01",
+        "limitingContext": "Independent corroboration, administration election-security rationale and DOJ's lack of immediate comment; not a current docket."
+      }
+    ],
+    "assessments": [],
+    "revisions": [
+      {
+        "revision": "1.0",
+        "date": "2026-11-01",
+        "note": "Initial publication from filed TRO, government notice and Reuters corroboration. Preserves without-notice preliminary posture, contemplated challenge and unverified subsequent disposition; no individual voter details or historical scores added."
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "nextReviewDate": "2026-11-02"
+  },
 ];
 
 export const eboxBySlug = new Map(eboxes.map((ebox) => [ebox.slug, ebox]));
