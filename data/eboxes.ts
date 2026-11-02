@@ -2452,16 +2452,16 @@ export const eboxes: EBox[] = [
   {
     "id": "TK-REC-0061",
     "slug": "doj-alaska-senate-certification-challenge",
-    "title": "DOJ seeks conditional block on Alaska Senate certification if Sen. Sullivan loses",
+    "title": "Court dismisses Alaska certification challenge; DOJ appeals",
     "category": "Elections & democratic continuity",
     "context": "United States v. Alaska, D. Alaska No. 3:26-cv-00376-SLG",
-    "dateLabel": "October 22–23, 2026",
-    "sortDate": "2026-10-23",
-    "status": "Complaint filed; conditional certification injunction requested; no relief or merits ruling verified",
+    "dateLabel": "October 22–November 1, 2026",
+    "sortDate": "2026-11-01",
+    "status": "Dismissed without prejudice for lack of standing; appeal docketed as Ninth Circuit No. 26-7304; no appellate relief verified",
     "publicationState": "Published",
-    "factualSummary": "On October 22, DOJ sued Alaska and its election officials, invoking the National Voter Registration Act and alleging that candidate Daniel J. Sullivan intended to confuse voters seeking to support incumbent Sen. Dan S. Sullivan. Paragraph 42 defines the challenged result by two conditions: the senator loses, and he would have won under Alaska's ranked-choice process if all votes cast for Daniel J. Sullivan had instead been cast for him. DOJ seeks to prevent certification of such a result pending an investigation of voter intent and further court-directed proceedings. AFP independently corroborates the filing and reports that Trump said on October 23 that he directed it.",
-    "whyItMatters": "The requested remedy would place federal litigation between an election result and state certification under a test expressly tied to the incumbent's defeat. It raises questions about executive influence over election administration and the scope of federal statutory authority. The court proceeding also provides a forum to test that authority and the evidence; the complaint itself does not stop certification.",
-    "limitingContext": "DOJ presents election integrity and prevention of voter confusion as its lawful purposes. Allegations about Daniel J. Sullivan's intent are not findings. The complaint acknowledges that an Alaska trial court rejected his exclusion from the ballot and that the state supreme court affirmed; those state orders and the complaint's exhibits were not separately reviewed. AFP reports denials by Daniel J. Sullivan and Democrats of a deliberate spoiler scheme. AP reports DOJ's defense of the suit under the NVRA and Sen. Lisa Murkowski's response that ballot labels already distinguish the candidates. Both conditions in paragraph 42 matter: the request is not a blanket bar on every Democratic victory. No actual voter confusion, altered result, granted injunction, or judicial acceptance of DOJ's legal theory was verified. Reviewed sources are not a complete current docket. No historical-comparison score is assigned.",
+    "factualSummary": "On October 22, DOJ sued Alaska and its election officials, invoking the National Voter Registration Act and alleging that candidate Daniel J. Sullivan intended to confuse voters seeking to support incumbent Sen. Dan S. Sullivan. Paragraph 42 defines the challenged result by two conditions: the senator loses, and he would have won under Alaska's ranked-choice process if all votes cast for Daniel J. Sullivan had instead been cast for him. DOJ seeks to prevent certification of such a result pending an investigation of voter intent and further court-directed proceedings. AFP independently corroborates the filing and reports that Trump said on October 23 that he directed it. On November 1, Judge Sharon Gleason dismissed the amended complaint for lack of Article III standing, finding DOJ had not shown a workable remedy preserving ballot secrecy. Judgment was entered without prejudice. DOJ filed a notice of appeal that day; the Ninth Circuit docketed it as No. 26-7304.",
+    "whyItMatters": "The requested remedy would place federal litigation between an election result and state certification under a test expressly tied to the incumbent's defeat. The dismissal demonstrates a judicial limit on that intervention; the appeal leaves the litigation unresolved. Neither the filing nor the appeal establishes voter confusion or improper intent.",
+    "limitingContext": "DOJ presents election integrity and prevention of voter confusion as its lawful purposes. Allegations about Daniel J. Sullivan's intent are not findings. The complaint acknowledges that an Alaska trial court rejected his exclusion from the ballot and that the state supreme court affirmed; those state orders and the complaint's exhibits were not separately reviewed. AFP reports denials by Daniel J. Sullivan and Democrats of a deliberate spoiler scheme. AP reports DOJ's defense of the suit under the NVRA and Sen. Lisa Murkowski's response that ballot labels already distinguish the candidates. Both conditions in paragraph 42 matter: the request is not a blanket bar on every Democratic victory. The dismissal rests on jurisdiction, not a merits determination of the NVRA or Supremacy Clause claims. The court denied further amendment and treated remaining requests for expedited discovery and preliminary relief as moot. Reuters reports DOJ characterized the dismissal as procedural and defended protecting voters from deception; Peltola and Daniel J. Sullivan denied a deliberate confusion scheme. The appellate notice establishes docketing, not a stay or reversal. No subsequent appellate relief was verified; reviewed documents are not a complete current docket. No actual voter confusion or altered result is established here. No historical-comparison score is assigned.",
     "subjects": [
       "U.S. Department of Justice",
       "Alaska Division of Elections",
@@ -2501,6 +2501,46 @@ export const eboxes: EBox[] = [
         "url": "https://apnews.com/article/d8f4a3c7b5247cc427a05f796d7c0d82",
         "retrievalDate": "2026-10-24",
         "limitingContext": "October 23 report reviewed through indexed article text; direct page retrieval failed. Supplies DOJ's lawful-purpose response and Murkowski's ballot-label counterargument, not an adjudication."
+      },
+      {
+        "sourceType": "Court record",
+        "title": "November 1 dismissal order, Document 79",
+        "publisher": "U.S. District Court for the District of Alaska / RECAP",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.79.0.pdf",
+        "retrievalDate": "2026-11-02",
+        "limitingContext": "Jurisdictional reasoning and disposition reviewed; stamped page 19 visually checked. Not a merits judgment or current appellate docket."
+      },
+      {
+        "sourceType": "Court record",
+        "title": "November 1 judgment, Document 80",
+        "publisher": "U.S. District Court for the District of Alaska / RECAP",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.80.0.pdf",
+        "retrievalDate": "2026-11-02",
+        "limitingContext": "Confirms dismissal without prejudice, not subsequent appellate disposition."
+      },
+      {
+        "sourceType": "Court record",
+        "title": "November 1 notice of appeal, Document 81",
+        "publisher": "Department of Justice / filed copy via RECAP",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.81.0_1.pdf",
+        "retrievalDate": "2026-11-02",
+        "limitingContext": "Filed challenge to Documents 79 and 80; not an order granting relief."
+      },
+      {
+        "sourceType": "Court record",
+        "title": "November 1 Ninth Circuit docketing notice, No. 26-7304",
+        "publisher": "U.S. Court of Appeals for the Ninth Circuit / RECAP",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5.2.0.pdf",
+        "retrievalDate": "2026-11-02",
+        "limitingContext": "Confirms appeal number and receipt; motions seeking appellate relief must be filed separately. Not proof of a stay or complete subsequent docket."
+      },
+      {
+        "sourceType": "Reporting",
+        "title": "US judge dismisses Trump election lawsuit in Alaska",
+        "publisher": "Reuters / StreetInsider",
+        "url": "https://www.streetinsider.com/Reuters/US%2Bjudge%2Bdismisses%2BTrump%2Belection%2Blawsuit%2Bin%2BAlaska/27267733.html",
+        "retrievalDate": "2026-11-02",
+        "limitingContext": "November 1 corroboration, DOJ procedural and election-integrity response, and candidate denials; primary documents control procedural status."
       }
     ],
     "assessments": [],
@@ -2509,10 +2549,15 @@ export const eboxes: EBox[] = [
         "revision": "1.0",
         "date": "2026-10-24",
         "note": "Initial publication from filed complaint and AFP/AP corroboration. Preserves both requested-relief conditions, state-court history, denials and DOJ rationale; no granted relief or historical score inferred."
+      },
+      {
+        "revision": "1.1",
+        "date": "2026-11-02",
+        "note": "Replaces complaint-only status with November 1 jurisdictional dismissal, judgment and docketed appeal verified from primary records and Reuters. Preserves denials and government rationale; no merits resolution, appellate relief or historical score inferred."
       }
     ],
-    "lastChecked": "2026-10-24",
-    "nextReviewDate": "2026-10-26"
+    "lastChecked": "2026-11-02",
+    "nextReviewDate": "2026-11-03"
   },
   {
     "id": "TK-REC-0062",
