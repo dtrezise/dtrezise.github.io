@@ -2831,16 +2831,16 @@ export const eboxes: EBox[] = [
   {
     "id": "TK-REC-0066",
     "slug": "court-restrains-election-worker-prosecution-threats",
-    "title": "Court issued temporary limits on federal ballot demands and threats against election workers",
+    "title": "Ninth Circuit reinstates stay of limits on federal election-worker prosecution threats",
     "category": "Elections & democratic continuity",
-    "context": "SEIU v. DOJ, N.D. Cal. No. 3:26-cv-12800-TLT",
-    "dateLabel": "October 30, 2026",
-    "sortDate": "2026-10-30",
-    "status": "October 30 TRO issued; government announced intent to seek modification, dissolution or appeal; subsequent disposition unverified",
+    "context": "SEIU v. DOJ, N.D. Cal. No. 3:26-cv-12800-TLT; Ninth Circuit No. 26-7303",
+    "dateLabel": "October 30–November 3, 2026",
+    "sortDate": "2026-11-03",
+    "status": "November 3 en banc order reinstates stay of October 30 TRO pending further order; underlying claims unresolved",
     "publicationState": "Published",
-    "factualSummary": "On October 30, Judge Trina Thompson granted SEIU, AFSCME, LULAC and NAACP temporary relief against DOJ and DHS. The order restricts demands to remove registered voters, withhold ballots or segregate votes solely on federal allegations of ineligibility, and related prosecution threats against election workers. It requires notice to affected jurisdictions and disclosure to the court of specified investigative demands. Reuters corroborates issuance and reports that DOJ had no immediate comment. The administration describes its election oversight as protecting election security and public confidence. In a same-day filing, defendants announced that by October 31 they intended to seek modification or dissolution, or alternatively appeal.",
-    "whyItMatters": "The case tests whether federal enforcement methods improperly pressure workers carrying out state election procedures. Temporary judicial intervention is an institutional check; it does not by itself establish compliance, lasting protection or the ultimate outcome.",
-    "limitingContext": "The court acted without notice under Rule 65(b), making a preliminary likelihood assessment, not a final merits judgment. Its discussion centers on Section 11(b) and the Elections Clause; it expressly defers detailed Fifth Amendment and APA analysis despite broader language in its conclusion. The order sets November 16 at 5 p.m. as its expiration, November 2 at noon for defendants' preliminary-injunction response, and November 13 for a hearing. The government notice establishes intent, not an actual appeal or a ruling granting relief. No later modification, stay, compliance or appeal disposition was verified; these documents are not a complete current docket. Lawful voter-eligibility enforcement remains a legitimate purpose, and this record does not determine any individual's eligibility. The California ballot suit (TK-REC-0050), Democratic plaintiffs' suit (TK-REC-0058) and nurses' field-operations case (TK-REC-0062) remain distinct. No historical-comparison score is assigned.",
+    "factualSummary": "On October 30, Judge Trina Thompson granted SEIU, AFSCME, LULAC and NAACP temporary relief against DOJ and DHS, restricting federal ballot demands and related prosecution threats against election workers. The government appealed. On November 2, a Ninth Circuit panel granted a stay; that order was then vacated for en banc review. On November 3, the en banc court reinstated the panel order pending further order, suspending the TRO. The attached panel majority found the government likely to prevail, treating the communications as executive requests and distinguishing requests from compulsory changes to state election procedures. Bloomberg Law independently corroborates the November 3 disposition. The administration describes its election oversight as protecting election security and public confidence.",
+    "whyItMatters": "The case tests the boundary between federal enforcement communications and coercive pressure on workers administering state elections. The stay removes this particular temporary restraint while litigation continues. Whether that exposes officials to unlawful pressure is contested, not a final merits finding.",
+    "limitingContext": "The stay is interim relief, not a final judgment that all federal conduct is lawful. It does not compel ballot segregation, establish any voter’s ineligibility, or itself order a prosecution. Judge Miller, joined by Judge Bennett, concurred that courts generally cannot bar DOJ from expressing its interpretation of criminal statutes, while acknowledging that many government positions may have little merit. Chief Judge Murguia and four judges dissented, arguing the threats conflict with the separate California ballot decision and expose election workers to prosecution risk; Judge Desai also criticized the confusion from successive orders. Lawful voter-eligibility enforcement remains a legitimate purpose. The original without-notice TRO was preliminary; its stated November 16 expiration does not mean it remains enforceable during the appellate stay. No later order, actual prosecution, or compliance outcome was verified. The California ballot suit (TK-REC-0050), Democratic plaintiffs’ suit (TK-REC-0058) and nurses’ field-operations case (TK-REC-0062) remain distinct; this stay does not itself lift their separate restrictions. No historical-comparison score is assigned.",
     "subjects": [
       "Department of Justice",
       "Department of Homeland Security",
@@ -2880,6 +2880,22 @@ export const eboxes: EBox[] = [
         "url": "https://uk.marketscreener.com/news/judge-orders-trump-administration-to-cease-threats-to-prosecute-election-officials-ce785fd8d980f42c",
         "retrievalDate": "2026-11-01",
         "limitingContext": "Independent corroboration, administration election-security rationale and DOJ's lack of immediate comment; not a current docket."
+      },
+      {
+        "sourceType": "Court record",
+        "title": "November 3 en banc order reinstating panel stay, with attached panel order, concurrence and dissents",
+        "publisher": "U.S. Court of Appeals for the Ninth Circuit",
+        "url": "https://cdn.ca9.uscourts.gov/datastore/opinions/2026/11/03/26-7303.pdf",
+        "retrievalDate": "2026-11-04",
+        "limitingContext": "Official disposition and relevant attached majority, concurrence and dissent passages reviewed; first page visually verified. Interim stay pending further order. Scanned evidentiary appendix not independently revalidated; not a complete subsequent docket."
+      },
+      {
+        "sourceType": "Reporting",
+        "title": "Court Backs DOJ in Fight Over Pressuring Election Officials (2)",
+        "publisher": "Bloomberg Law",
+        "url": "https://news.bloomberglaw.com/litigation/appeals-court-lifts-election-limits-on-trump-administration",
+        "retrievalDate": "2026-11-04",
+        "limitingContext": "Accessible November 3 report opening corroborates the 6–5 appellate disposition. Full article is subscription-restricted; official order controls procedural wording and reasoning."
       }
     ],
     "assessments": [],
@@ -2888,10 +2904,15 @@ export const eboxes: EBox[] = [
         "revision": "1.0",
         "date": "2026-11-01",
         "note": "Initial publication from filed TRO, government notice and Reuters corroboration. Preserves without-notice preliminary posture, contemplated challenge and unverified subsequent disposition; no individual voter details or historical scores added."
+      },
+      {
+        "revision": "1.1",
+        "date": "2026-11-04",
+        "note": "Reviewed November 3 official en banc order and attached judicial reasoning, with independent corroboration. Replaced unverified appellate status with reinstated stay; preserved interim posture, competing judicial views, lawful purpose and separate-case limits. No historical score changed."
       }
     ],
-    "lastChecked": "2026-11-01",
-    "nextReviewDate": "2026-11-02"
+    "lastChecked": "2026-11-04",
+    "nextReviewDate": "2026-11-05"
   },
 ];
 
