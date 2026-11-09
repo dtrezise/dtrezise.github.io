@@ -2690,16 +2690,16 @@ export const eboxes: EBox[] = [
   {
     "id": "TK-REC-0064",
     "slug": "doj-washington-citizenship-ballot-segregation-demand",
-    "title": "Washington rejects federal ballot-hold request without individualized evidence",
+    "title": "Court temporarily blocks compulsory federal ballot demands in Washington",
     "category": "Elections & democratic continuity",
-    "context": "October 26 announcement by the U.S. Attorney’s Offices for Eastern and Western Washington",
-    "dateLabel": "October 26–28, 2026",
-    "sortDate": "2026-10-28",
-    "status": "State disputes list and requests individualized proof; DOJ reviewing response; no ballot hold or court order verified",
+    "context": "Federal ballot request and OneAmerica Votes v. Trump, W.D. Wash. No. 2:26-cv-04223-JNW",
+    "dateLabel": "October 26–November 5, 2026",
+    "sortDate": "2026-11-05",
+    "status": "November 5 TRO granted in part for 14 days; district-court stay denied; preliminary-injunction hearing set for November 18; later appellate disposition not verified",
     "publicationState": "Published",
-    "factualSummary": "On October 26, Washington’s two U.S. Attorney’s Offices announced a request that state officials set aside mail ballots associated with more than 400 people they allege are noncitizens until citizenship can be confirmed. The announcement says many are lawful permanent residents and frames the request as protecting lawful votes. Washington State Standard reports that prosecutors sent a letter identifying 405 people and that no charges against those people had been filed at the press conference. Secretary of State Steve Hobbs said his office was reviewing the request for compliance with state and federal law, disputed the data’s reliability, and said one record dated to 1994. His response is reported by the Standard; it is not a judicial finding. In his published October 28 response, Hobbs says a preliminary review found U.S. citizens and people who are unregistered or inactive on the list. He declines to withhold ballots on that basis and invites individualized proof of ineligibility. The Spokesman-Review corroborates the response, reports that the state could not yet quantify the citizens identified, and quotes DOJ’s spokesperson saying prosecutors would review the reply and decide next steps.",
-    "whyItMatters": "The demand extends federal pressure over ballot processing to another state while voting is underway. If implemented without accurate data and timely correction procedures, a hold could burden eligible voters. Its institutional significance lies in the proposed change to state election administration; the announcement alone does not establish that any vote was withheld.",
-    "limitingContext": "Verifying eligibility and investigating unlawful voting are legitimate governmental purposes. A federal allegation or historical immigration record does not establish present citizenship or unlawful voting. The agency announcement acknowledges reports of registration without some green-card holders’ knowledge. Hobbs says the state will respond only through lawful process. The original federal letter, underlying list, matching method, and individual eligibility were not independently reviewed. The state’s preliminary findings and legal objections are its position, not a judicial determination or an audit of all listed people. DOJ’s reported October 28 review statement does not establish a later enforcement decision. No completed segregation, removal, prosecution arising from this list, or judicial relief was verified. This Washington request is distinct from the California lawsuit in TK-REC-0050 and the separate DHS-investigation injunction in TK-REC-0062; no violation of either case’s orders is asserted. No personal voter information or historical-comparison score is included.",
+    "factualSummary": "On October 26, Washington’s two U.S. Attorney’s Offices announced a request that state officials set aside mail ballots associated with more than 400 people they allege are noncitizens until citizenship can be confirmed. The announcement says many are lawful permanent residents and frames the request as protecting lawful votes. Washington State Standard reports that prosecutors sent a letter identifying 405 people and that no charges against those people had been filed at the press conference. Secretary of State Steve Hobbs said his office was reviewing the request for compliance with state and federal law, disputed the data’s reliability, and said one record dated to 1994. His response is reported by the Standard; it is not a judicial finding. In his published October 28 response, Hobbs says a preliminary review found U.S. citizens and people who are unregistered or inactive on the list. He declines to withhold ballots on that basis and invites individualized proof of ineligibility. The Spokesman-Review corroborates the response, reports that the state could not yet quantify the citizens identified, and quotes DOJ’s spokesperson saying prosecutors would review the reply and decide next steps. On November 5, Judge Jamal N. Whitehead granted a temporary restraining order in part in OneAmerica Votes v. Trump, Document 21. It bars the named agency and officer defendants from directing or demanding that Washington election officials remove specific registered voters, refuse them ballots, or segregate or decline to count their November 3 election ballots, and from threatening prosecution or investigation for noncompliance. The court found likely success on the Elections Clause claim, distinguishing coercion from voluntary requests. It denied a stay pending appeal and a seven-day administrative stay. The order lasts 14 days unless extended, sets opposition for November 12 and a reply for November 16, and schedules a November 18 preliminary-injunction hearing. Washington State Standard independently corroborates the ruling and reports DOJ’s response: the department was evaluating next steps, emphasized that a TRO is not a final merits ruling, and defended its authority to work with states on lawful voter rolls.",
+    "whyItMatters": "The demand extends federal pressure over ballot processing to another state while voting is underway. If implemented without accurate data and timely correction procedures, a hold could burden eligible voters. Its institutional significance lies in the proposed change to state election administration; the announcement alone does not establish that any vote was withheld. The temporary judicial intervention limits coercive pressure during counting while preserving lawful federal-state cooperation; it does not resolve the case finally.",
+    "limitingContext": "Verifying eligibility and investigating unlawful voting are legitimate governmental purposes. A federal allegation or historical immigration record does not establish present citizenship or unlawful voting. The agency announcement acknowledges reports of registration without some green-card holders’ knowledge. Hobbs says the state will respond only through lawful process. The original federal letter, underlying list, matching method, and individual eligibility were not independently reviewed. The state’s preliminary findings and legal objections are its position, not a judicial determination or an audit of all listed people. DOJ’s reported October 28 review statement does not establish a later enforcement decision. No completed segregation, removal, or prosecution arising from this list was verified. The November 5 order permits information sharing, statements of federal legal views, requests for cooperation, and investigation or prosecution of unlawful registration or voting. It does not enjoin the President. Its findings are preliminary; no later appellate disposition or extension was verified in this review. This Washington request is distinct from the California lawsuit in TK-REC-0050 and the separate DHS-investigation injunction in TK-REC-0062; no violation of either case’s orders is asserted. No personal voter information or historical-comparison score is included.",
     "subjects": [
       "U.S. Department of Justice",
       "U.S. Attorney’s Office for the Western District of Washington",
@@ -2746,6 +2746,22 @@ export const eboxes: EBox[] = [
         "url": "https://www.spokesman.com/stories/2026/oct/28/american-citizens-among-405-voters-flagged-by-feds/",
         "retrievalDate": "2026-10-30",
         "limitingContext": "October 28 report read directly. Corroborates the response, ongoing state assessment without a quantified citizen count, and DOJ’s statement that it would review the reply before deciding next steps. Does not establish later action."
+      },
+      {
+        "sourceType": "Court record",
+        "title": "November 5 order granting temporary restraining order in part, Document 21",
+        "publisher": "U.S. District Court for the Western District of Washington / Justia reproduction",
+        "url": "https://law.justia.com/cases/federal/district-courts/washington/wawdce/2%3A2026cv04223/371038/21/",
+        "retrievalDate": "2026-11-09",
+        "limitingContext": "Court-authored text reviewed for reasoning, operative relief, exceptions, stay denial and schedule. Third-party reproduction, not a complete current docket; no later appellate disposition verified."
+      },
+      {
+        "sourceType": "Reporting",
+        "title": "Feds can’t force WA to set aside alleged noncitizen ballots, judge rules",
+        "publisher": "Washington State Standard / States Newsroom",
+        "url": "https://washingtonstatestandard.com/2026/11/06/feds-cant-force-wa-to-set-aside-alleged-noncitizen-ballots-judge-rules/",
+        "retrievalDate": "2026-11-09",
+        "limitingContext": "November 6 report reviewed directly; independently corroborates the temporary ruling and preserves DOJ’s response and lawful-investigation exception. Does not establish a later appeal outcome."
       }
     ],
     "assessments": [],
@@ -2759,10 +2775,15 @@ export const eboxes: EBox[] = [
         "revision": "1.1",
         "date": "2026-10-30",
         "note": "Reviewed indexed October 28 official response and independent reporting including DOJ’s reply. Added state rejection absent individualized evidence and preliminary data objections; preserved federal lawful purpose, uncertainty about individual eligibility and unverified implementation. No voter data or historical score added."
+      },
+      {
+        "revision": "1.2",
+        "date": "2026-11-09",
+        "note": "Reviewed November 5 court order and November 6 independent reporting. Replaced no-order-verified status with temporary relief, exceptions, stay denial and hearing schedule; preserved DOJ’s response and uncertainty about later appellate action. No personal voter data or historical score added."
       }
     ],
-    "lastChecked": "2026-10-30",
-    "nextReviewDate": "2026-10-31"
+    "lastChecked": "2026-11-09",
+    "nextReviewDate": "2026-11-12"
   },
   {
     "id": "TK-REC-0065",
