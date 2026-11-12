@@ -2952,6 +2952,60 @@ export const eboxes: EBox[] = [
     "lastChecked": "2026-11-04",
     "nextReviewDate": "2026-11-05"
   },
+  {
+    "id": "TK-REC-0067",
+    "slug": "fourth-circuit-linkedin-journalist-records",
+    "title": "Appeals court requires narrower orders for journalists’ LinkedIn records",
+    "category": "Press, knowledge & civil society",
+    "context": "In re: Application, Fourth Circuit No. 26-4303; E.D. Va. No. 4:25-dm-00001-EWH-DEM-1",
+    "dateLabel": "November 10, 2026",
+    "sortDate": "2026-11-10",
+    "status": "Affirmed in part, reversed in part and remanded; subsequent proceedings unverified",
+    "publicationState": "Published",
+    "factualSummary": "On November 10, the Fourth Circuit unanimously required reconsideration of disclosure and secrecy orders in a classified military leak investigation. The disclosure demand covered journalists’ LinkedIn metadata over eighteen months, including unrelated sources. The court found substantial overbreadth under statutory and constitutional standards. It directed consideration of narrower disclosure and an exception allowing notice to one outlet attorney, unless the government supplies a more persuasive objection. Ars Technica independently corroborates the ruling and reports Microsoft’s support for privacy and press freedom.",
+    "whyItMatters": "Demands that expose unrelated confidential sources can discourage reporting on government. Judicial review here supplies an institutional check while permitting lawful investigation. This analysis does not establish retaliatory intent or an actual chilling effect.",
+    "limitingContext": "The court recognized compelling national-security interests, rejected quashing the orders entirely, and upheld withholding the government’s ex parte materials. This concerns metadata, not a verified disclosure of message contents. No later narrowing order, stay, further appeal or actual production was verified. No historical-comparison score is assigned.",
+    "subjects": [
+      "Department of Justice",
+      "LinkedIn",
+      "U.S. Court of Appeals for the Fourth Circuit"
+    ],
+    "tags": [
+      "press freedom",
+      "confidential sources",
+      "Stored Communications Act",
+      "national security",
+      "judicial review"
+    ],
+    "sources": [
+      {
+        "sourceType": "Court record",
+        "title": "November 10 published opinion, No. 26-4303",
+        "publisher": "U.S. Court of Appeals for the Fourth Circuit / Justia reproduction",
+        "url": "https://law.justia.com/cases/federal/appellate-courts/ca4/26-4303/26-4303-2026-11-10.html",
+        "retrievalDate": "2026-11-12",
+        "limitingContext": "Court-authored opinion text reviewed, including remand instructions and preserved government interests; not reliance on the automated summary or a complete subsequent docket."
+      },
+      {
+        "sourceType": "Reporting",
+        "title": "Reporting on LinkedIn leak-investigation ruling and Microsoft response",
+        "publisher": "Ars Technica",
+        "url": "https://arstechnica.com/tech-policy/2026/11/trump-admin-loses-fight-to-spy-on-random-journalists-linkedin-dms/",
+        "retrievalDate": "2026-11-12",
+        "limitingContext": "November 11 independent corroboration and company response. Headline characterizations are not adopted; the opinion controls scope and procedural status."
+      }
+    ],
+    "assessments": [],
+    "revisions": [
+      {
+        "revision": "1.0",
+        "date": "2026-11-12",
+        "note": "Initial publication after reviewing judicial reasoning and independent corroboration. Preserves lawful purpose, remand conditions and unverified subsequent status; no historical score assigned."
+      }
+    ],
+    "lastChecked": "2026-11-12",
+    "nextReviewDate": "2026-11-19"
+  },
 ];
 
 export const eboxBySlug = new Map(eboxes.map((ebox) => [ebox.slug, ebox]));
