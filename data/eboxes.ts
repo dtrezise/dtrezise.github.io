@@ -1478,16 +1478,18 @@ export const eboxes: EBox[] = [
     title: "Executive restructuring took Voice of America off the air",
     category: "Press, knowledge & civil society",
     context: "USAGM reduction order, mass leave, grant termination, and restoration litigation",
-    dateLabel: "March–April 2025",
-    sortDate: "2025-03-14",
-    status: "Shutdown implemented; federal court ordered substantial restoration pending litigation",
+    dateLabel: "March 2025–November 2026",
+    sortDate: "2026-11-10",
+    status: "Director-removal injunction affirmed November 10; broader restoration and later proceedings unverified",
     publicationState: "Published",
-    factualSummary: "After Trump ordered several entities reduced to the minimum required by law, U.S. Agency for Global Media leadership placed most Voice of America staff on leave, terminated network grants, and took VOA programming off air. The administration described the agency as wasteful and biased. A federal judge ordered restoration of employees, contractors, grants, and programming so USAGM could fulfill its statutory mandate.",
+    factualSummary: "After Trump ordered several entities reduced to the minimum required by law, U.S. Agency for Global Media leadership placed most Voice of America staff on leave, terminated network grants, and took VOA programming off air. The administration described the agency as wasteful and biased. A federal judge ordered restoration of employees, contractors, grants, and programming so USAGM could fulfill its statutory mandate. On November 10, 2026, the D.C. Circuit affirmed a permanent injunction barring removal of director Michael Abramowitz without majority approval of the International Broadcasting Advisory Board.",
     whyItMatters: "Rapidly disabling a legislatively created news institution before adjudicating its statutory obligations reduces independent information capacity and can make later judicial restoration difficult. VOA’s government funding also makes editorial safeguards and statutory mission—not absolute independence—the appropriate benchmark.",
-    limitingContext: "VOA is a federal broadcaster serving overseas audiences, not a private domestic press outlet, and elected officials may reform it within statute. Waste, management, and mission concerns can be legitimate. The court order preserved statutory operations during litigation; it did not establish that every program, grant, or employee must remain unchanged forever.",
+    limitingContext: "VOA is a federal broadcaster serving overseas audiences, not a private domestic press outlet, and elected officials may reform it within statute. Waste, management, and mission concerns can be legitimate. The court order preserved statutory operations during litigation; it did not establish that every program, grant, or employee must remain unchanged forever. The panel rejected the government’s civil-service jurisdiction and Article II objections, while recognizing presidential control through removable board members. The director ruling does not verify restoration of staff or broadcasts, or resolve all related litigation. Subsequent appeals and compliance remain unverified; existing scores describe the earlier shutdown and are unchanged.",
     subjects: ["Voice of America", "U.S. Agency for Global Media", "Donald Trump", "Kari Lake"],
     tags: ["Voice of America", "USAGM", "press freedom", "agency shutdown", "statutory mandate"],
     sources: [
+      {"sourceType": "Court record", "title": "Abramowitz v. Lake, No. 25-5314 — November 10 opinion", "publisher": "U.S. Court of Appeals for the D.C. Circuit / Justia reproduction", "url": "https://law.justia.com/cases/federal/appellate-courts/cadc/25-5314/25-5314-2026-11-10.html", "retrievalDate": "2026-11-15", "limitingContext": "Court-authored reasoning and disposition reviewed, not the automated summary. Director-removal holding; not a complete subsequent docket."},
+      {"sourceType": "Reporting", "title": "Appeals court upholds board-approval protection for VOA director", "publisher": "TheWrap", "url": "https://www.thewrap.com/industry-news/public-policy-legal/kari-lake-voice-of-america-director-firing-appeals-court/", "retrievalDate": "2026-11-15", "limitingContext": "November 10 independent corroboration; distinguishes director litigation from the broader broadcasting dispute."},
       { sourceType: "Official record", title: "Continuing the Reduction of the Federal Bureaucracy", publisher: "The White House", url: "https://www.whitehouse.gov/presidential-actions/2025/03/continuing-the-reduction-of-the-federal-bureaucracy/", retrievalDate: retrieved, limitingContext: "High-level executive order requiring minimum statutory operations; USAGM implementation produced the shutdown challenged in court." },
       { sourceType: "Official record", title: "USAGM implementation press release", publisher: "U.S. Agency for Global Media", url: "https://www.usagm.gov/wp-content/uploads/2025/03/PressRelease.pdf", retrievalDate: retrieved, limitingContext: "Agency rationale and implementation announcement; not an independent assessment of statutory compliance." },
       { sourceType: "Reporting", title: "Judge says Voice of America staffers can return to work", publisher: "The Washington Post", url: "https://www.washingtonpost.com/style/media/2025/04/22/voice-of-america-voa-ruling-employees-return/", retrievalDate: retrieved, limitingContext: "Reports preliminary restoration relief; later merits rulings and compliance determine durable outcome." },
@@ -1508,7 +1510,9 @@ export const eboxes: EBox[] = [
         normalization: [2, "Implementation was rapid but met immediate judicial resistance."],
       }, "The information-control indicator is strong at the institutional level and limited by active courts."),
     ],
-    revisions: [{ revision: "1.0", date: "2026-07-17", note: "Initial publication distinguishes a federal broadcaster from private press and preserves the preliminary posture." }],
+    revisions: [{ revision: "1.0", date: "2026-07-17", note: "Initial publication distinguishes a federal broadcaster from private press and preserves the preliminary posture." }, { revision: "1.1", date: "2026-11-15", note: "Reviewed appellate opinion and independent reporting; added director-removal holding, government defenses and limits. Broader restoration remains unverified. Prior scores unchanged." }],
+    lastChecked: "2026-11-15",
+    nextReviewDate: "2026-11-22",
   },
   {
     id: "TK-REC-0036",
@@ -3005,6 +3009,74 @@ export const eboxes: EBox[] = [
     ],
     "lastChecked": "2026-11-12",
     "nextReviewDate": "2026-11-19"
+  },
+  {
+    "id": "TK-REC-0068",
+    "slug": "supreme-court-asylum-proclamation-review",
+    "title": "Supreme Court agrees to review asylum restrictions and classwide relief",
+    "category": "Race, belonging & coercive power",
+    "context": "Mullin v. Refugee and Immigrant Center for Education and Legal Services, No. 26-239",
+    "dateLabel": "November 13, 2026",
+    "sortDate": "2026-11-13",
+    "status": "Review granted on two questions; no Supreme Court merits decision",
+    "publicationState": "Published",
+    "factualSummary": "On November 13, the Supreme Court granted review of the legality of Presidential Proclamation 10888 and its implementing guidance restricting entry and access to asylum, and whether 8 U.S.C. 1252(f)(1) bars the district court’s classwide relief. The grant excludes the petition’s third question about class definition. AP reports that the administration seeks reversal of lower-court decisions and argues it may categorically deny asylum under the order.",
+    "whyItMatters": "The case tests executive control over access to statutory protection and the reach of judicial remedies. Accepting review establishes neither the validity nor invalidity of the challenged restrictions.",
+    "limitingContext": "The government invokes border-control authority; challengers contest restrictions on asylum access. The grant itself supplies no new merits ruling or stay. This record does not independently establish the full current scope of lower-court relief or individual eligibility. No historical-comparison score is assigned.",
+    "subjects": [
+      "Supreme Court of the United States",
+      "Department of Homeland Security"
+    ],
+    "tags": [
+      "asylum",
+      "executive authority",
+      "judicial review",
+      "classwide relief"
+    ],
+    "sources": [
+      {
+        "sourceType": "Court record",
+        "title": "November 13 order granting limited review",
+        "publisher": "Supreme Court of the United States",
+        "url": "https://www.supremecourt.gov/orders/courtorders/111326zr_09m1.pdf",
+        "retrievalDate": "2026-11-15",
+        "limitingContext": "Operative grant reviewed; acceptance of review is not a merits decision."
+      },
+      {
+        "sourceType": "Court record",
+        "title": "No. 26-239 questions presented and grant scope",
+        "publisher": "Supreme Court of the United States",
+        "url": "https://www.supremecourt.gov/docket/docketfiles/html/qp/26-00239qp.pdf",
+        "retrievalDate": "2026-11-15",
+        "limitingContext": "Lists three questions; only the first two were accepted."
+      },
+      {
+        "sourceType": "Court record",
+        "title": "No. 26-239 public docket",
+        "publisher": "Supreme Court of the United States",
+        "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/26-239.html",
+        "retrievalDate": "2026-11-15",
+        "limitingContext": "Confirms limited grant; not a review of the complete lower-court docket."
+      },
+      {
+        "sourceType": "Reporting",
+        "title": "Supreme Court will consider asylum restrictions at southern border",
+        "publisher": "Associated Press",
+        "url": "https://apnews.com/article/aeed6eb39a46b6f9e56f4b6940a5cfe4",
+        "retrievalDate": "2026-11-15",
+        "limitingContext": "Indexed November 13 report corroborates grant and government argument; not used to establish precise operative lower-court relief."
+      }
+    ],
+    "assessments": [],
+    "revisions": [
+      {
+        "revision": "1.0",
+        "date": "2026-11-15",
+        "note": "Initial narrow record of verified grant and accepted questions, with attributed government argument and unresolved merits. No score assigned."
+      }
+    ],
+    "lastChecked": "2026-11-15",
+    "nextReviewDate": "2026-11-22"
   },
 ];
 
