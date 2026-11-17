@@ -3078,6 +3078,66 @@ export const eboxes: EBox[] = [
     "lastChecked": "2026-11-15",
     "nextReviewDate": "2026-11-22"
   },
+  {
+    "id": "TK-REC-0069",
+    "slug": "supreme-court-declines-uc-dei-grant-cuts-review",
+    "title": "Supreme Court declines review of University of California research grant cuts",
+    "category": "Institutions & rule of law",
+    "context": "Trump v. Thakur, No. 26-210",
+    "dateLabel": "November 16, 2026",
+    "sortDate": "2026-11-16",
+    "status": "Certiorari denied; underlying litigation continues",
+    "publicationState": "Published",
+    "factualSummary": "On November 16, the Supreme Court denied the administration’s petition for certiorari in Trump v. Thakur. Its docket identifies the challenged Ninth Circuit decision as May 26, 2026, in No. 25-4249. AP reports that the denial leaves in place lower-court rulings finding likely First Amendment violations in the termination of University of California research grants linked to diversity, equity and inclusion. The administration argues that it need not continue funding research outside its priorities.",
+    "whyItMatters": "Government research funding can affect academic expression. Judicial review of viewpoint-based funding restrictions is an institutional safeguard; this refusal to hear an appeal leaves that dispute in the lower courts.",
+    "limitingContext": "Denial of certiorari is not a Supreme Court merits ruling or endorsement of all lower-court reasoning. AP describes an ongoing lawsuit concerning only part of the administration’s research funding cuts. The precise operative scope of lower-court relief and actual grant restoration were not independently verified in this review. Government authority to set lawful funding priorities remains distinct from alleged viewpoint discrimination. This case is separate from the Harvard funding record, TK-REC-0037, and the California medical-education case also addressed in the November 16 order list. No historical-comparison score is assigned.",
+    "subjects": [
+      "Supreme Court of the United States",
+      "University of California"
+    ],
+    "tags": [
+      "academic freedom",
+      "research funding",
+      "DEI",
+      "judicial review"
+    ],
+    "sources": [
+      {
+        "sourceType": "Court record",
+        "title": "November 16 order list, certiorari denied, PDF page 3",
+        "publisher": "Supreme Court of the United States",
+        "url": "https://www.supremecourt.gov/orders/courtorders/111626zor_cb7d.pdf",
+        "retrievalDate": "2026-11-17",
+        "limitingContext": "Lists No. 26-210 among denied petitions; supplies no merits reasoning in this case."
+      },
+      {
+        "sourceType": "Court record",
+        "title": "Trump v. Thakur, No. 26-210 public docket",
+        "publisher": "Supreme Court of the United States",
+        "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/26-210.html",
+        "retrievalDate": "2026-11-17",
+        "limitingContext": "Confirms November 16 denial and identifies the lower-court case; not a complete review of the lower-court docket."
+      },
+      {
+        "sourceType": "Reporting",
+        "title": "Supreme Court rebuffs Trump administration appeal over DEI funding cuts",
+        "publisher": "Associated Press / ABC News",
+        "url": "https://abcnews.com/US/wireStory/supreme-court-rebuffs-trump-administration-appeal-dei-funding-138187547",
+        "retrievalDate": "2026-11-17",
+        "limitingContext": "November 16 report read in full; supplies lower-court context, government funding-priority defense and continuing litigation status, not precise injunction terms."
+      }
+    ],
+    "assessments": [],
+    "revisions": [
+      {
+        "revision": "1.0",
+        "date": "2026-11-17",
+        "note": "Initial narrow record of verified certiorari denial; preserves government defense, continuing litigation and limits on the meaning of denial. No score assigned."
+      }
+    ],
+    "lastChecked": "2026-11-17",
+    "nextReviewDate": "2026-11-24"
+  },
 ];
 
 export const eboxBySlug = new Map(eboxes.map((ebox) => [ebox.slug, ebox]));
