@@ -1,5 +1,5 @@
 export const archiveWideReviewDate = "2026-07-17";
-export const mostRecentRecordReviewDate = "2026-11-17";
+export const mostRecentRecordReviewDate = "2026-11-18";
 export const reviewCycleDays = 30;
 
 export const editorialStandards = [
