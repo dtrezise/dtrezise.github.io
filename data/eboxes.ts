@@ -3140,6 +3140,58 @@ export const eboxes: EBox[] = [
     "lastChecked": "2026-11-17",
     "nextReviewDate": "2026-11-24"
   },
+  {
+    "id": "TK-REC-0070",
+    "slug": "colorado-ice-rearrest-contempt-cured",
+    "title": "Colorado court finds ICE re-arrest contempt cured after practice stops",
+    "category": "Institutions & rule of law",
+    "context": "Quintero Alvarez v. Baltazar, No. 1:26-cv-04891-CNS",
+    "dateLabel": "November 18, 2026",
+    "sortDate": "2026-11-18",
+    "status": "Past civil contempt found; no further action; case ordered closed",
+    "publicationState": "Published",
+    "factualSummary": "On November 18, Judge Charlotte Sweeney found ICE official Nichole Black and the respondents had been in contempt before November 9 for immediately re-detaining a petitioner ordered released. The court found the contempt cured after testimony that the practice had stopped, declined further action and ordered the case closed. Acting field director Nathan Rasper testified that re-arrests were intended to correct technical defects under statutory authority and that Black misunderstood his instructions. The court rejected that explanation as a defense to noncompliance. MPR reports that ICE previously said any further action, including re-arrest, would be consistent with law and court orders.",
+    "whyItMatters": "Judicial release orders constrain executive detention power. Immediate re-arrest can defeat that safeguard; the court’s intervention and the end of the challenged practice also demonstrate an operating institutional check.",
+    "limitingContext": "This is a civil-contempt finding in a particular Colorado habeas case, not a criminal conviction or a nationwide prohibition on re-arrest. The petitioner had been released. MPR reports differing Minnesota judicial decisions on similar re-arrests. Subsequent compliance and any appeal were not independently established. No historical-comparison score is assigned.",
+    "subjects": [
+      "Immigration and Customs Enforcement",
+      "U.S. District Court for the District of Colorado"
+    ],
+    "tags": [
+      "immigration detention",
+      "habeas corpus",
+      "court orders",
+      "civil contempt"
+    ],
+    "sources": [
+      {
+        "sourceType": "Court record",
+        "title": "November 18 order, Document 27",
+        "publisher": "U.S. District Court for the District of Colorado / Colorado Politics copy",
+        "url": "https://www.coloradopolitics.com/wp-content/uploads/2026/11/Quintero-Alvarez-v.-Baltazar-order-11.18.26.pdf",
+        "retrievalDate": "2026-11-19",
+        "limitingContext": "All 15 pages reviewed; signed disposition visually verified. Publisher-hosted court document, not a complete subsequent docket."
+      },
+      {
+        "sourceType": "Reporting",
+        "title": "Colorado judge finds ICE in contempt for instant re-arrests borrowed from Minnesota agents",
+        "publisher": "MPR News",
+        "url": "https://www.mprnews.org/story/2026/11/18/colorado-judge-finds-ice-in-contempt-for-instant-rearrests-borrowed-from-minnesota-agents",
+        "retrievalDate": "2026-11-19",
+        "limitingContext": "November 18 report supplies ICE’s prior response and differing Minnesota rulings; does not establish nationwide cessation."
+      }
+    ],
+    "assessments": [],
+    "revisions": [
+      {
+        "revision": "1.0",
+        "date": "2026-11-19",
+        "note": "Initial record of past contempt and its cure; preserves the agency explanation, no further court action and case closure. No score assigned."
+      }
+    ],
+    "lastChecked": "2026-11-19",
+    "nextReviewDate": "2026-11-26"
+  },
 ];
 
 export const eboxBySlug = new Map(eboxes.map((ebox) => [ebox.slug, ebox]));
