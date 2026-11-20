@@ -3192,6 +3192,75 @@ export const eboxes: EBox[] = [
     "lastChecked": "2026-11-19",
     "nextReviewDate": "2026-11-26"
   },
+  {
+    "id": "TK-REC-0071",
+    "slug": "california-federal-officer-mask-id-permanent-injunction",
+    "title": "Court permanently bars California mask and ID rules against federal officers",
+    "category": "Institutions & rule of law",
+    "context": "United States v. California, No. 2:25-cv-10999-CAS-AJR",
+    "dateLabel": "November 17, 2026",
+    "sortDate": "2026-11-17",
+    "status": "Stipulated permanent injunction; action dismissed with prejudice",
+    "publicationState": "Published",
+    "factualSummary": "On November 17, Judge Christina A. Snyder entered a permanent injunction following the parties’ joint stipulation. It bars California and the covered state officials from enforcing Government Code sections 7288 and 7289 and Penal Code sections 185.5 and 13654 against the United States, federal law enforcement officers and federal agencies. These provisions concern officer identification and face coverings. The Daily Journal independently reports the agreement and entry of the injunction. DOJ announced the outcome November 19, invoking federal supremacy and protection of officers from harassment and threats. In an earlier February statement, Attorney General Bonta defended identification requirements as safeguards for public trust, accountability and civil liberties.",
+    "whyItMatters": "Identifiable officers can make coercive enforcement more accountable. This judgment limits California’s use of these statutes to impose that safeguard on federal personnel. The competing federalism and officer-safety interests are substantive legal considerations; the result alone does not establish an unlawful purpose or misconduct by individual officers.",
+    "limitingContext": "The court accepted a joint stipulation, dismissed the action with prejudice and retained jurisdiction to implement and enforce the judgment. The order does not prohibit enforcement of these statutes against all state or local officers, authorize every federal enforcement tactic, or adjudicate individual misconduct. Bonta’s February statement supplies the state’s earlier rationale, not a verified response to this final agreement. The reviewed order is not a complete subsequent docket; no later appeal or modification was verified. The Daily Journal’s accessible opening paragraphs corroborate the agreement; the subscription-only remainder was not reviewed. Separate Denver, Portland and St. Paul disputes remain in TK-REC-0045 and TK-REC-0051. No historical-comparison score is assigned.",
+    "subjects": [
+      "U.S. Department of Justice",
+      "State of California",
+      "U.S. District Court for the Central District of California"
+    ],
+    "tags": [
+      "officer identification",
+      "face coverings",
+      "federalism",
+      "permanent injunction"
+    ],
+    "sources": [
+      {
+        "sourceType": "Court record",
+        "title": "November 17 order entering permanent injunction and dismissing action, Document 90",
+        "publisher": "U.S. District Court for the Central District of California / DOJ copy",
+        "url": "https://www.justice.gov/opa/media/1473341/dl?inline=",
+        "retrievalDate": "2026-11-20",
+        "limitingContext": "Both pages read; signed disposition and filing date visually verified. Establishes precise scope, stipulated resolution and retained jurisdiction, not subsequent docket activity."
+      },
+      {
+        "sourceType": "Official record",
+        "title": "DOJ announces permanent injunction against California enforcement restrictions",
+        "publisher": "Department of Justice",
+        "url": "https://www.justice.gov/opa/pr/justice-department-secures-permanent-injunction-against-california-laws-restricting-federal",
+        "retrievalDate": "2026-11-20",
+        "limitingContext": "November 19 announcement supplies federal supremacy and officer-safety rationale; agency characterizations remain attributed."
+      },
+      {
+        "sourceType": "Reporting",
+        "title": "California agrees to stop enforcing mask, ID laws against federal agents",
+        "publisher": "Daily Journal",
+        "url": "https://www.dailyjournal.com/article/396381-california-agrees-to-stop-enforcing-mask-id-laws-against-federal-agents",
+        "retrievalDate": "2026-11-20",
+        "limitingContext": "November 19 headline, summary and accessible opening paragraphs corroborate the stipulated injunction. Remainder is subscription restricted and was not reviewed."
+      },
+      {
+        "sourceType": "Direct statement",
+        "title": "Attorney General Bonta: Transparency and Accountability Are the Foundation of Good Law Enforcement",
+        "publisher": "California Attorney General",
+        "url": "https://www.oag.ca.gov/news/press-releases/attorney-general-bonta-transparency-and-accountability-are-foundation-good-law",
+        "retrievalDate": "2026-11-20",
+        "limitingContext": "February 9 statement supplies the state’s earlier accountability rationale; its description of preliminary relief is historical and not the final procedural status."
+      }
+    ],
+    "assessments": [],
+    "revisions": [
+      {
+        "revision": "1.0",
+        "date": "2026-11-20",
+        "note": "Initial record of stipulated permanent injunction and dismissal; preserves federal scope, competing rationales and verification limits. No score assigned."
+      }
+    ],
+    "lastChecked": "2026-11-20",
+    "nextReviewDate": "2026-12-04"
+  },
 ];
 
 export const eboxBySlug = new Map(eboxes.map((ebox) => [ebox.slug, ebox]));
