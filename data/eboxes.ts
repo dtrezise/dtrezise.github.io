@@ -3261,6 +3261,59 @@ export const eboxes: EBox[] = [
     "lastChecked": "2026-11-20",
     "nextReviewDate": "2026-12-04"
   },
+  {
+    "id": "TK-REC-0072",
+    "slug": "contractor-congressional-requests-executive-privilege-order",
+    "title": "Order directs federal contractors to coordinate congressional disclosures with White House",
+    "category": "Institutions & rule of law",
+    "context": "Executive Order 14438; congressional oversight and federal procurement",
+    "dateLabel": "November 20, 2026",
+    "sortDate": "2026-11-20",
+    "status": "Executive order issued; implementation and litigation not verified",
+    "publicationState": "Published",
+    "factualSummary": "On November 20, President Trump issued Executive Order 14438. It directs federal contractors to notify the White House and contracting agencies immediately of pending or future congressional requests about their executive-branch work or communications, and to follow withholding instructions for communications those officials determine are privileged. Subcontractors are covered. OMB must develop compliance guidance. Agencies must consider lawful enforcement measures, potentially including contract cancellation, suspension or debarment. Reuters independently corroborates the order and places it amid preparations for congressional investigations.",
+    "whyItMatters": "Conditioning contractors’ responses on coordination with the branch under investigation creates a potential obstacle to legislative oversight. Contract eligibility can amplify that pressure. This is an analysis of the order’s mechanism, not evidence that a particular inquiry has been obstructed or that any specific privilege assertion is invalid.",
+    "limitingContext": "The administration invokes confidentiality, national security and procurement efficiency, including avoidance of duplicative litigation. The order requires implementation consistent with applicable law; sanctions are potential measures for agency consideration, not automatic penalties. Reuters notes that courts can intervene in disputes over congressional access. No implementing guidance, actual sanction, withheld production or judicial ruling on this order was verified in this review. Issuance does not establish that every contractor communication is privileged. No historical-comparison score is assigned.",
+    "subjects": [
+      "White House",
+      "Federal contractors",
+      "Congress",
+      "Office of Management and Budget"
+    ],
+    "tags": [
+      "congressional oversight",
+      "executive privilege",
+      "federal contracting"
+    ],
+    "sources": [
+      {
+        "sourceType": "Official record",
+        "title": "Executive Order 14438: Protecting the Executive’s Privileges and Enhancing Efficiencies in Federal Contracting",
+        "publisher": "The White House",
+        "url": "https://www.whitehouse.gov/presidential-actions/2026/11/protecting-the-executives-privileges-and-enhancing-efficiencies-in-federal-contracting/",
+        "retrievalDate": "2026-11-21",
+        "limitingContext": "Full operative text, sections 1–6, reviewed. Establishes directions and stated rationale, not their judicial validity or actual enforcement."
+      },
+      {
+        "sourceType": "Reporting",
+        "title": "Trump orders federal contractors to notify White House before giving Congress information",
+        "publisher": "Reuters / StreetInsider",
+        "url": "https://www.streetinsider.com/Reuters/Trump%2Border%2Bsays%2Bcontractors%2Bmust%2Bnotify%2BWhite%2BHouse%2Bof%2Bcongressional%2Bprobes/27382837.html",
+        "retrievalDate": "2026-11-21",
+        "limitingContext": "November 20 report read in full; corroborates issuance, administration rationale and oversight context. Possible litigation is prospective, not a verified filing."
+      }
+    ],
+    "assessments": [],
+    "revisions": [
+      {
+        "revision": "1.0",
+        "date": "2026-11-21",
+        "note": "Initial record of contractor disclosure order; preserves stated rationale, applicable-law limits and unverified implementation. No score assigned."
+      }
+    ],
+    "lastChecked": "2026-11-21",
+    "nextReviewDate": "2026-11-28"
+  },
 ];
 
 export const eboxBySlug = new Map(eboxes.map((ebox) => [ebox.slug, ebox]));
