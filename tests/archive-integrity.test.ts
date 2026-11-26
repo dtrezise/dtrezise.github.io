@@ -72,9 +72,9 @@ test("all internal route helpers preserve deploy-safe trailing slashes", () => {
 test("record freshness is explicit and review-due states cannot be hidden", () => {
   const updated = eboxes.find((ebox) => ebox.slug === "broadcast-license-threats-election-speech");
   assert.ok(updated);
-  assert.equal(latestReviewDate(updated), "2026-10-07");
-  assert.equal(reviewState(updated, "2026-10-07"), "Current review");
-  assert.equal(reviewState(updated, "2026-10-22"), "Review due");
+  assert.equal(latestReviewDate(updated), "2026-11-26");
+  assert.equal(reviewState(updated, "2026-11-26"), "Current review");
+  assert.equal(reviewState(updated, "2026-12-03"), "Review due");
   const latest = eboxes.find((ebox) => latestReviewDate(ebox) === mostRecentRecordReviewDate);
   assert.ok(latest);
   assert.equal(reviewState(latest), "Current review");
