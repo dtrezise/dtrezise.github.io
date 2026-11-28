@@ -3330,6 +3330,67 @@ export const eboxes: EBox[] = [
     "lastChecked": "2026-11-21",
     "nextReviewDate": "2026-11-28"
   },
+{
+  "id": "TK-REC-0073",
+  "slug": "anonymous-ice-critics-grand-jury-subpoena-challenge",
+  "title": "Anonymous ICE critics challenge grand jury subpoenas seeking their identities",
+  "category": "Political opposition & state power",
+  "context": "Bluesky Poster 1 v. Pirro, No. 1:26-cv-04054-JEB",
+  "dateLabel": "November 27, 2026 public filings",
+  "sortDate": "2026-11-27",
+  "status": "Proposed class action; preliminary relief requested; no merits ruling verified",
+  "publicationState": "Published",
+  "factualSummary": "A redacted complaint filed publicly November 27 challenges grand jury subpoenas seeking the identities of four anonymous social media users. Plaintiffs allege that Investigation 18 targets criticism of immigration enforcement in violation of the First and Fourth Amendments. They request declaratory and injunctive relief, including restrictions on obtaining and sharing identifying information and expungement of collected records. The ACLU says the suit was originally filed under seal November 16 and unsealed November 25. AP independently corroborates the public challenge and reports that DHS and the U.S. Attorney’s office did not immediately respond to requests for comment.",
+  "whyItMatters": "Compelled identification can deter anonymous political criticism. This case tests the boundary between legitimate criminal investigation and alleged retaliation for speech. The filing creates an opportunity for judicial scrutiny; it does not establish the alleged abuse.",
+  "limitingContext": "These are plaintiffs’ allegations, not judicial findings. The investigation’s full scope and government evidentiary basis remain unresolved. Lawful investigation of crimes and threats remains a legitimate purpose; anonymity does not itself exempt conduct from investigation. No class certification, injunction, final liability determination or subsequent appeal was verified. The complaint is a redacted public copy, not a complete docket. This case is distinct from the journalists’ LinkedIn-records dispute in TK-REC-0067. No account handles, personal contact details or historical-comparison score are included.",
+  "subjects": [
+    "U.S. Department of Justice",
+    "Department of Homeland Security",
+    "U.S. District Court for the District of Columbia"
+  ],
+  "tags": [
+    "anonymous speech",
+    "grand jury subpoenas",
+    "immigration enforcement",
+    "First Amendment"
+  ],
+  "sources": [
+    {
+      "sourceType": "Court record",
+      "title": "Redacted complaint, Document 19-1",
+      "publisher": "U.S. District Court for the District of Columbia / ACLU copy",
+      "url": "https://assets.aclu.org/live/uploads/2026/11/19-1.-Redacted-Complaint.pdf",
+      "retrievalDate": "2026-11-28",
+      "limitingContext": "Caption, filing stamp, introductory allegations and requested relief reviewed. Plaintiffs’ pleading, not an adjudication or complete docket."
+    },
+    {
+      "sourceType": "Direct statement",
+      "title": "ACLU announces public filings in anonymous ICE critics’ subpoena challenge",
+      "publisher": "American Civil Liberties Union",
+      "url": "https://www.aclu.org/press-releases/lawsuit-alleges-sprawling-federal-grand-jury-investigation-into-anonymous-ice-critics-online",
+      "retrievalDate": "2026-11-28",
+      "limitingContext": "Counsel’s November 27 statement supplies original filing and unsealing dates and confirms preliminary relief requested; advocacy characterizations remain allegations."
+    },
+    {
+      "sourceType": "Reporting",
+      "title": "ACLU seeks court order blocking efforts to unmask ICE critics on social media",
+      "publisher": "Associated Press / Boston.com",
+      "url": "https://www.boston.com/news/national-news/2026/11/27/aclu-seeks-court-order-blocking-efforts-to-unmask-ice-critics-on-social-media/",
+      "retrievalDate": "2026-11-28",
+      "limitingContext": "November 27 report corroborates the public challenge and lack of immediate agency response. It does not establish alleged retaliation as fact."
+    }
+  ],
+  "assessments": [],
+  "revisions": [
+    {
+      "revision": "1.0",
+      "date": "2026-11-28",
+      "note": "Initial record of public subpoena challenge; distinguishes allegations, requested relief and unresolved government response. No score assigned."
+    }
+  ],
+  "lastChecked": "2026-11-28",
+  "nextReviewDate": "2026-12-14"
+},
 ];
 
 export const eboxBySlug = new Map(eboxes.map((ebox) => [ebox.slug, ebox]));
